@@ -1,5 +1,5 @@
 import React from "react";
-import logo from './assets/23A91A61F6.png';
+import logo from './assets/chatgptimg6.png';
 import './styling.css';
 import { Link } from "react-router-dom";
 

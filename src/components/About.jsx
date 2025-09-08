@@ -84,6 +84,7 @@ export function About() {
   margin-bottom: 15px;
   font-size: 1.6rem;
   font-weight: bold;
+  color: cyan;
 }
 
 .about-list {

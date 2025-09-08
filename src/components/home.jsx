@@ -65,6 +65,7 @@ function Home() {
   margin-bottom: 20px;
   font-size: 2rem;
   font-weight: bold;
+  color: cyan;
 }
 
 .para {
@@ -84,11 +85,13 @@ function Home() {
   margin-bottom: 12px;
   font-size: 1.4rem;
   font-weight: bold;
+  color: cyan;
 }
 
 .main-list {
   margin-left: 20px;
   margin-bottom: 50px;
+  
 }
 
 .lstheading {
@@ -110,6 +113,7 @@ function Home() {
   margin-bottom: 5px;
   font-size: 1.5rem;
   font-weight: bold;
+  color: cyan;
 }
 
 .pagesdata {

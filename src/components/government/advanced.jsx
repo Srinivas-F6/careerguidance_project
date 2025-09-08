@@ -4,7 +4,7 @@ export function Advanced({ advance, reset }) {
     return (
         <>
             <button onClick={reset} className="back">Back</button>
-            <h1 className="tags">Career paths</h1>
+            <h1 className="tags">Government Services</h1>
             <ul className="dbox">
                 {
                     advance.career_paths.map((adv, index) => (

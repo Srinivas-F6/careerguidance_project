@@ -3,6 +3,7 @@ import '../careerpath/component.css';
 export function Basicdetails({ begin, onClickExplore }) {
     return (
         <>
+           <h2 className="tags">Government Recruitment Exams in India.</h2>
             <ul className="box">
                 {
                     begin.map((start, index) => (

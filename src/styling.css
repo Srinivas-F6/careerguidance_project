@@ -103,6 +103,7 @@ body {
     border-radius: 50%;
     background-color: aliceblue;
     margin-left: 5px;
+    object-fit: contain;
   }
 
   .right nav {
