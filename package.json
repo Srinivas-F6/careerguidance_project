@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Srinivas-F6/careerguaidance_project",
+  "homepage": "https://Srinivas-F6.github.io/careerguaidance_project/",
   "name": "project1",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.542.0",
