@@ -1,0 +1,1167 @@
+{
+  "paths_after_10th": [
+    {
+      "name": "Intermediate (Class 11 & 12 / Junior College)",
+      "duration": "2 years",
+      "purpose": "The Intermediate stage, also known as Class 11 and 12 or Junior College, serves as a crucial bridge between secondary school (Class 10) and higher education. It is designed to prepare students academically, mentally, and skill-wise for degree programs, professional courses, and competitive examinations. Offered by various state boards, CBSE, and other recognized boards, this stage allows students to choose a specific stream such as Science, Commerce, or Arts based on their career aspirations and academic strengths. Each stream offers a set of core and elective subjects, giving students a chance to specialize in areas relevant to their future goals—whether that be engineering, medicine, law, management, social sciences, or creative fields. The Intermediate curriculum not only builds a strong theoretical foundation but also emphasizes analytical thinking, problem-solving, and practical application through laboratory work, projects, and assignments. Additionally, it plays a vital role in preparing students for entrance exams like JEE, NEET, CLAT, CA Foundation, and others by aligning syllabus topics with competitive exam requirements. Beyond academics, Junior College often provides exposure to extracurricular activities, skill development programs, and career counseling to help students make informed decisions about their future. Successful completion of Intermediate is mandatory for pursuing undergraduate courses in India and is recognized by universities, professional bodies, and government organizations nationwide.",
+      "streams": [
+        {
+          "name": "MPC",
+          "description": "MPC (Mathematics, Physics, Chemistry) is a science stream for students aiming for careers in engineering, technology, and pure sciences, providing a strong foundation in analytical and problem-solving skills.",
+          "full_form": "Mathematics, Physics, Chemistry",
+          "best_for": "Engineering, Architecture, Defence, Technology, Computer Science",
+          "ideal_for_students_interested_in": [
+            "Problem-solving",
+            "Technology and innovation",
+            "Mathematics and logical thinking",
+            "Design and structures"
+          ],
+          "subjects": [
+            "Mathematics",
+            "Physics",
+            "Chemistry"
+          ],
+          "career_paths": [
+            {
+              "name": "Engineering",
+              "description": "If you take Engineering (B.Tech/B.E.), you can work as a professional problem solver in technical fields.\nYou can become a Mechanical Engineer, Civil Engineer, Electrical Engineer, Computer Engineer, or Electronics Engineer.\nYou will design and build machines, software, structures, or electrical systems depending on your branch.\nYou can work in industries like manufacturing, construction, software, IT, electronics, or automotive.\nYou may also pursue higher studies (M.Tech, MBA) or appear for government exams (GATE, IES, PSU jobs)."
+            },
+            {
+              "name": "Architecture",
+              "description": "If you study Architecture (B.Arch), you can become an Architect who plans and designs buildings and urban spaces.\nYou can work as an Architect, Interior Designer, Urban Planner, or Landscape Architect.\nYour job will involve creativity, spatial planning, and technical knowledge about construction.\nYou can work with architecture firms, construction companies, or start your own practice.\nAfter graduation, you can appear for licensing exams and pursue further studies in urban design or planning."
+            },
+            {
+              "name": "Defence Services and Merchant Navy",
+              "description": "If you join Defence Services through NDA, you can become a commissioned officer in the Indian Army, Navy, or Air Force. You will lead troops, operate advanced systems, and serve the country with honor and discipline. If you choose the Merchant Navy, you can become a Marine Engineer, Deck Officer, or Navigation Officer. You will work on ships, travel internationally, and handle logistics and marine operations. Both career paths require physical fitness, leadership, and a strong sense of responsibility."
+            },
+            {
+              "name": "Computer Science and Software Development",
+              "description": "If you study Computer Science or Software Development, you can build applications, websites, and software systems. You can become a Software Developer, Web Developer, Mobile App Developer, or IT Analyst. You will work in IT companies, startups, or tech departments of large organizations. Key skills include programming, problem-solving, and understanding of computer systems. You can also pursue advanced roles like DevOps Engineer, System Architect, or CTO with experience."
+            },
+            {
+              "name": "Artificial Intelligence, Robotics, and Data Science",
+              "description": "If you study AI, Robotics, or Data Science, you will work with emerging technologies that automate and solve complex problems. You can become a Data Scientist, Machine Learning Engineer, AI Researcher, or Robotics Engineer. Your job will involve working with algorithms, data analysis, sensors, and smart systems. You can work in industries like healthcare, finance, manufacturing, and technology. This is a future-focused field with high demand for skilled professionals who can think analytically and innovate."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "JEE Main",
+              "description": "JEE Main (Joint Entrance Examination Main) is a national-level engineering entrance exam conducted by the National Testing Agency (NTA). \nIt is used for admission to undergraduate engineering programs (B.E./B.Tech) in NITs, IIITs, and other centrally funded technical institutions. Additionally, it serves as the qualifying exam for JEE Advanced, which is required for admission to IITs. Students who have completed or are appearing in their 10+2 exams with Physics, Chemistry, and Mathematics are eligible to apply. It is one of the most widely accepted engineering entrance exams in India."
+            },
+            {
+              "name": "JEE Advanced",
+              "description": "JEE Advanced (Joint Entrance Examination Advanced) is the entrance exam for admission into the prestigious Indian Institutes of Technology (IITs). It is conducted annually by one of the IITs under the guidance of the Joint Admission Board (JAB). Only the top rankers (usually top 2.5 lakh candidates) from JEE Main are eligible to appear for JEE Advanced. The exam tests in-depth understanding of Physics, Chemistry, and Mathematics. It has strict eligibility criteria, including age limits and a maximum of two attempts. Qualifying JEE Advanced is mandatory for securing a seat in undergraduate programs at IITs."
+            },
+            {
+              "name": "EAMCET",
+              "description": "EAMCET (Engineering, Agriculture and Medical Common Entrance Test) is a state-level entrance exam conducted by the governments of Andhra Pradesh (AP EAMCET) and Telangana (TS EAMCET). It is held for admission to engineering, agriculture, and medical-related courses offered by colleges in these states. Candidates who have completed or are appearing in their 10+2 exams with relevant subjects (typically Physics, Chemistry, and Mathematics for engineering) are eligible to apply. The exam is essential for students seeking admission to state-funded institutions and private colleges in Andhra Pradesh and Telangana."
+            },
+            {
+              "name": "BITSAT",
+              "description": "BITSAT (Birla Institute of Technology and Science Admission Test) is an online entrance examination conducted by BITS Pilani for admission to its integrated first-degree programs in engineering and sciences at its Pilani, Goa, and Hyderabad campuses. Candidates must have secured at least 75% aggregate marks in Physics, Chemistry, and Mathematics in their 10+2 exams, with a minimum of 60% in each subject. BITSAT is known for its high difficulty level and competitive nature. The test includes questions from Physics, Chemistry, Mathematics, English Proficiency, and Logical Reasoning."
+            },
+            {
+              "name": "VITEEE",
+              "description": "VITEEE (VIT Engineering Entrance Examination) is conducted by the Vellore Institute of Technology for admission to its B.Tech programs across its campuses in Vellore, Chennai, Bhopal, and Amaravati. Students must have completed or be appearing in 10+2 with Physics, Chemistry, and Mathematics or Biology. The exam is computer-based and tests candidates on Physics, Chemistry, Mathematics/Biology, English, and Aptitude. VITEEE is one of the prominent private engineering entrance exams in India, offering a wide range of specialization options in engineering."
+            }
+          ]
+        },
+        {
+          "name": "BiPC",
+          "description": "BiPC (Biology, Physics, Chemistry) is for students interested in medical, paramedical, and life sciences fields, preparing them for careers in medicine, pharmacy, and biotechnology.",
+          "full_form": "Biology, Physics, Chemistry",
+          "best_for": "Medicine, Life Sciences, Pharmacy, Agricultural Sciences",
+          "ideal_for_students_interested_in": [
+            "Biology and human anatomy",
+            "Healthcare and medicine",
+            "Research in life sciences",
+            "Helping and healing professions"
+          ],
+          "subjects": [
+            "Biology",
+            "Physics",
+            "Chemistry"
+          ],
+          "career_paths": [
+            {
+              "name": "MBBS (Medicine), BDS (Dentistry)",
+              "description": "MBBS (Bachelor of Medicine and Bachelor of Surgery) is the primary undergraduate degree for aspiring doctors. It typically takes 5.5 years, including a one-year internship. Students study anatomy, physiology, biochemistry, pathology, and clinical subjects. BDS (Bachelor of Dental Surgery) is the undergraduate program for those who want to become dental surgeons. It usually takes 5 years including an internship. Admission to both programs is based on NEET (National Eligibility cum Entrance Test), and these degrees open paths to becoming a general physician, specialist, or dentist, and further postgraduate studies (MD/MS/MDS)."
+            },
+            {
+              "name": "BAMS (Ayurveda), BHMS (Homeopathy), BUMS (Unani)",
+              "description": "BAMS (Bachelor of Ayurvedic Medicine and Surgery) is a degree focusing on traditional Indian Ayurvedic medicine. BHMS (Bachelor of Homeopathic Medicine and Surgery) focuses on homeopathic principles, while BUMS (Bachelor of Unani Medicine and Surgery) deals with the Unani system of healing. All three are typically 5.5-year programs including internships. They are regulated by respective central councils and require NEET qualification for admission. Graduates can work in clinics, hospitals, research, and even pursue postgraduate degrees like MD (Ayurveda), MD (Homeopathy), or MD (Unani)."
+            },
+            {
+              "name": "BPT (Physiotherapy), B.Sc. Nursing",
+              "description": "BPT (Bachelor of Physiotherapy) is a 4.5-year degree program including clinical internship, focusing on physical rehabilitation, pain management, and movement therapy. B.Sc. Nursing is a 4-year undergraduate program that prepares students to become registered nurses. It includes training in medical, surgical, pediatric, psychiatric, and community health nursing. Both fields are in high demand in hospitals, clinics, rehabilitation centers, and public health services. Entrance exams vary by state and institution, and both offer excellent career stability and international job opportunities."
+            },
+            {
+              "name": "Pharmacy (B.Pharm), Biotechnology",
+              "description": "B.Pharm (Bachelor of Pharmacy) is a 4-year degree focused on the study of drug composition, medicinal chemistry, pharmacology, and pharmaceutical practices. Graduates can work as pharmacists, drug inspectors, in pharmaceutical companies, or pursue M.Pharm for specialization. Biotechnology is an interdisciplinary field combining biology and technology. It involves genetic engineering, microbiology, molecular biology, and bioinformatics. A B.Sc. in Biotechnology typically lasts 3 years and leads to careers in research, pharmaceuticals, agriculture, and environmental sciences. Entrance exams include state-level and institute-level tests."
+            },
+            {
+              "name": "Veterinary Sciences, Agriculture, Microbiology, Genetics",
+              "description": "Veterinary Sciences deals with animal health and veterinary medicine. A Bachelor's in Veterinary Science (B.V.Sc.) usually takes 5.5 years. Agriculture courses such as B.Sc. Agriculture focus on crop production, soil science, agronomy, and agri-business. Microbiology and Genetics are research-focused life science disciplines. B.Sc. degrees in these subjects are typically 3 years long and open doors to careers in healthcare, pharmaceuticals, research labs, and higher studies. Admission is often through ICAR AIEEA, CUET, or state-level entrance tests."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "NEET",
+              "description": "NEET (National Eligibility cum Entrance Test) is the national-level entrance exam for admission to undergraduate medical courses such as MBBS, BDS, BAMS, BHMS, BUMS, and B.V.Sc., across government and private medical colleges in India. It is conducted by the National Testing Agency (NTA). NEET is mandatory for admission into all medical colleges, including AIIMS and JIPMER. The exam consists of a single paper with 200 questions (180 to be attempted) from Physics, Chemistry, and Biology (Botany & Zoology), to be completed in 3 hours and 20 minutes. The eligibility criteria include completing 10+2 or equivalent with Physics, Chemistry, Biology/Biotechnology, and English, with at least 50% aggregate marks for general category students (40% for reserved categories). NEET is also used for AYUSH and some veterinary courses."
+            },
+            {
+              "name": "EAMCET",
+              "description": "EAMCET (Engineering, Agriculture and Medical Common Entrance Test) is a state-level entrance exam conducted separately by Telangana (TS EAMCET) and Andhra Pradesh (AP EAMCET) for admission into engineering, agriculture, and some medical-related programs like B.Pharm, B.Sc. Agriculture, and B.V.Sc. It is not used for MBBS/BDS (which require NEET). The exam is conducted by state universities such as JNTU Hyderabad or JNTU Kakinada. Candidates must have completed or be appearing in 10+2 with relevant subjects (PCM for engineering, PCB for agriculture/medical). The test is computer-based and covers subjects such as Mathematics/Biology, Physics, and Chemistry. Scores are accepted by state government and private colleges within the respective state."
+            },
+            {
+              "name": "AIIMS (via NEET)",
+              "description": "Earlier, AIIMS (All India Institute of Medical Sciences) conducted its own entrance exam for undergraduate medical courses. However, from 2020 onwards, AIIMS admissions are based on NEET scores. AIIMS is a group of autonomous medical institutions under the Ministry of Health and Family Welfare. Admission to the MBBS program in AIIMS Delhi and other AIIMS branches is now purely based on NEET rank and centralized counseling conducted by the Medical Counseling Committee (MCC). AIIMS is one of the most prestigious medical institutions in India, offering world-class infrastructure, faculty, and research opportunities."
+            },
+            {
+              "name": "ICAR AIEEA",
+              "description": "ICAR AIEEA (Indian Council of Agricultural Research – All India Entrance Examination for Admission) is a national-level exam conducted by the National Testing Agency (NTA) for admission to undergraduate (UG), postgraduate (PG), and doctoral (Ph.D.) programs in agriculture and allied sciences. For UG courses, the AIEEA-UG exam provides admission to B.Sc. Agriculture, Horticulture, Forestry, Sericulture, B.Tech in Agricultural Engineering, Dairy Technology, and more, across ICAR-affiliated universities in India. Candidates must have completed 10+2 with Physics, Chemistry, Biology/Mathematics/Agriculture/Home Science depending on the course. The UG exam is typically computer-based, with questions in Physics, Chemistry, Biology/Mathematics/Agriculture. It opens up career paths in agricultural research, agribusiness, food technology, environmental science, and more."
+            }
+          ]
+        },
+        {
+          "name": "MEC",
+          "description": "MEC (Mathematics, Economics, Commerce) combines math with economics and commerce, perfect for students aiming for careers in finance, accounting, business analytics, and economics.",
+          "full_form": "Mathematics, Economics, Commerce",
+          "best_for": "Finance, Economics, Chartered Accountancy, Business Management",
+          "ideal_for_students_interested_in": [
+            "Numbers and statistics",
+            "Business operations",
+            "Economic trends",
+            "Financial planning"
+          ],
+          "subjects": [
+            "Mathematics",
+            "Economics",
+            "Commerce"
+          ],
+          "career_paths": [
+            {
+              "name": "CA (Chartered Accountant), CMA (Cost Management Accountant)",
+              "description": "CA (Chartered Accountant) is a professional course focusing on accounting, auditing, taxation, and financial management. It is offered by the Institute of Chartered Accountants of India (ICAI). The process includes clearing CA Foundation, Intermediate, and Final exams along with mandatory practical training (articleship). CMA (Cost Management Accountant) deals with cost accounting, financial strategy, and management accounting. It is conducted by the Institute of Cost Accountants of India (ICMAI) with Foundation, Intermediate, and Final levels. Both careers offer opportunities in auditing firms, corporate finance, taxation consultancy, and senior management roles."
+            },
+            {
+              "name": "Company Secretary (CS)",
+              "description": "Company Secretary is a professional qualification offered by the Institute of Company Secretaries of India (ICSI). The role involves corporate governance, company law compliance, secretarial audits, and advising the board of directors. The course has three stages: Foundation, Executive, and Professional programs, along with practical training. CS professionals work as compliance officers, legal advisors, or company secretaries in corporates, law firms, or government bodies."
+            },
+            {
+              "name": "B.Com, BBA, BMS",
+              "description": "B.Com (Bachelor of Commerce), BBA (Bachelor of Business Administration), and BMS (Bachelor of Management Studies) are undergraduate degrees focused on commerce, business, and management respectively. B.Com covers accounting, finance, taxation, and economics. BBA emphasizes business administration, marketing, human resources, and entrepreneurship. BMS blends business and management concepts with practical exposure. These degrees typically last 3 years and lead to careers in banking, finance, marketing, HR, and business management or higher studies like MBA or CA."
+            },
+            {
+              "name": "Economist, Investment Banking, Financial Analyst",
+              "description": "Careers in Economics, Investment Banking, and Financial Analysis involve analyzing economic trends, managing investments, and advising on financial decisions. Economists study market behavior, public policy, and economic models. Investment Bankers manage mergers, acquisitions, and capital raising. Financial Analysts evaluate financial data to guide investment decisions. These roles often require advanced degrees (M.A./M.Sc. Economics, MBA, CFA) and strong quantitative, analytical, and communication skills."
+            },
+            {
+              "name": "Entrepreneurship, MBA",
+              "description": "Entrepreneurship involves creating and managing new business ventures, focusing on innovation, market research, and business planning. An MBA (Master of Business Administration) is a postgraduate degree that develops leadership, strategic thinking, finance, marketing, and operations skills. MBA specializations include finance, marketing, HR, IT, and international business. Both paths open opportunities in startups, corporate leadership, consulting, and global business."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "CA Foundation",
+              "description": "CA Foundation is the entry-level exam for the Chartered Accountancy course conducted by ICAI. Eligibility requires completion of 10+2 or equivalent. The exam includes four papers: Principles and Practice of Accounting, Business Laws and Business Correspondence, Business Mathematics and Logical Reasoning, and Economics. Passing CA Foundation is mandatory to register for the Intermediate level of the CA course."
+            },
+            {
+              "name": "CMA Foundation",
+              "description": "CMA Foundation is the first stage of the Cost Management Accountant course conducted by ICMAI. Eligibility requires passing 10+2 or equivalent. The exam tests subjects like Fundamentals of Economics and Management, Fundamentals of Accounting, Fundamentals of Laws and Ethics, and Fundamentals of Business Mathematics and Statistics. Clearing CMA Foundation allows students to enroll for the Intermediate level."
+            },
+            {
+              "name": "IPMAT",
+              "description": "IPMAT (Integrated Program in Management Aptitude Test) is conducted by the Indian Institutes of Management (IIMs) for admission into 5-year integrated BBA + MBA programs. The exam assesses Quantitative Ability, Verbal Ability, and Logical Reasoning. Candidates must have completed 10+2. Selection is based on exam score and personal interview. The program offers early leadership and management training."
+            },
+            {
+              "name": "CUET",
+              "description": "CUET (Common University Entrance Test) is a centralized test for admission to undergraduate and postgraduate programs across many Indian universities. It tests domain-specific knowledge and general aptitude. For commerce and management courses, it evaluates quantitative skills, logical reasoning, and language proficiency. Eligibility depends on individual university criteria, generally 10+2 for UG admissions."
+            },
+            {
+              "name": "DU JAT",
+              "description": "DU JAT (Delhi University Joint Admission Test) was an entrance exam conducted by Delhi University for admission to its BMS, BBA (FIA), and related programs. It included sections on Quantitative Ability, Reasoning and Analytical Ability, and General English. However, DU JAT has been discontinued recently and DU now admits students based on CUET scores and Class 12 marks."
+            },
+            {
+              "name": "NPAT",
+              "description": "NPAT (NMIMS Programs After Twelfth) is an entrance test conducted by NMIMS University for admission to undergraduate courses like BBA, B.Com, and integrated MBA programs. The exam evaluates Quantitative and Numerical Ability, Reasoning and General Intelligence, and Proficiency in English. Eligibility requires completion of 10+2 or equivalent. NMIMS is one of India's top private universities for management and commerce education."
+            }
+          ]
+        },
+        {
+          "name": "CEC",
+          "description": "CEC (Civics, Economics, Commerce) suits students inclined towards commerce, business, law, and economics, opening pathways to commerce-related degrees and professional courses.",
+          "full_form": "Civics, Economics, Commerce",
+          "best_for": "Law, Government Services, Public Policy, Management",
+          "ideal_for_students_interested_in": [
+            "Law and legal systems",
+            "Government and civil services",
+            "Management and commerce",
+            "Society and politics"
+          ],
+          "subjects": [
+            "Civics",
+            "Economics",
+            "Commerce"
+          ],
+          "career_paths": [
+            {
+              "name": "Law (LLB), BBA, B.Com, BA (Public Administration)",
+              "description": "Law (LLB) is an undergraduate degree that prepares students for legal practice, advocacy, and understanding of laws. Admissions can be through CLAT or university-specific exams. BBA (Bachelor of Business Administration) focuses on management, marketing, and entrepreneurship. B.Com (Bachelor of Commerce) emphasizes accounting, finance, and economics. BA in Public Administration covers governance, public policy, and administrative systems. These degrees typically last 3 years (5 years integrated for some law courses) and open career opportunities in legal practice, corporate sectors, public administration, and business."
+            },
+            {
+              "name": "Civil Services (UPSC, State PSC)",
+              "description": "Civil Services is a prestigious career path involving government administrative roles such as IAS, IPS, and IFS officers. The Union Public Service Commission (UPSC) conducts the Civil Services Examination at the national level, while State Public Service Commissions (State PSC) conduct exams for state-level administrative services. The exam process includes Preliminary, Mains, and Interview stages. Eligibility includes a bachelor's degree. Careers offer governance, policy-making, and public administration opportunities."
+            },
+            {
+              "name": "Hotel Management, Event Management",
+              "description": "Hotel Management prepares students for careers in hospitality, tourism, and hotel operations. Courses include BHM (Bachelor of Hotel Management) and diploma programs, focusing on food production, housekeeping, front office, and catering. Event Management covers planning, organizing, and managing events like conferences, weddings, and exhibitions. Both fields demand strong interpersonal, organizational, and customer service skills. Entrance can be via university-specific exams or national-level tests like NCHMCT JEE."
+            },
+            {
+              "name": "NGO and Social Work",
+              "description": "Careers in NGO and Social Work focus on community development, welfare programs, and social justice. Educational qualifications include BA or MA in Social Work, Development Studies, or related fields. Roles involve working with marginalized groups, policy advocacy, project management, and research. Admission to social work courses is through university entrance exams or merit-based selection. This sector offers opportunities in nonprofits, international organizations, and government agencies."
+            },
+            {
+              "name": "Public Policy and Governance",
+              "description": "Public Policy and Governance involves the study of government policies, their formulation, implementation, and impact analysis. Courses like Master of Public Policy (MPP) or related degrees prepare students for roles in think tanks, research institutions, government agencies, and international organizations. Skills developed include policy analysis, economics, political science, and administration. Admissions are usually through university-specific entrance exams or national-level tests."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "CUET",
+              "description": "CUET (Common University Entrance Test) is a centralized entrance exam used by multiple Indian universities for admission to various undergraduate and postgraduate programs including law, arts, commerce, and management. The test assesses language proficiency, domain-specific knowledge, and general aptitude. Eligibility and syllabus depend on the participating universities and the chosen program."
+            },
+            {
+              "name": "CLAT (for Law)",
+              "description": "CLAT (Common Law Admission Test) is the national-level entrance exam for admission to undergraduate (5-year integrated LLB) and postgraduate law programs in National Law Universities (NLUs) and other participating institutions across India. It tests English, General Knowledge, Legal Aptitude, Logical Reasoning, and Elementary Mathematics. Candidates must have completed 10+2 for UG admission. CLAT is one of the most competitive law entrance exams."
+            },
+            {
+              "name": "SET",
+              "description": "SET (Symbiosis Entrance Test) is conducted by Symbiosis International University for admission to undergraduate programs including law (BA LLB), management (BBA), and other courses. The exam includes sections on General English, Quantitative Aptitude, Logical Reasoning, and General Awareness. Eligibility varies by course but generally requires completion of 10+2."
+            },
+            {
+              "name": "University-specific exams",
+              "description": "Several universities and colleges conduct their own entrance exams for courses in law, management, arts, and social sciences. These exams test subject knowledge, aptitude, and sometimes include group discussions or interviews. Examples include BHU UET, DU entrance exams, and others. Eligibility criteria and exam formats vary depending on the institution and program."
+            }
+          ]
+        },
+        {
+          "name": "HEC",
+          "description": "HEC (History, Economics, Civics) focuses on humanities and social sciences, ideal for those interested in public administration, law, civil services, and social research.",
+          "full_form": "History, Economics, Civics",
+          "best_for": "Arts, UPSC, Humanities, Teaching, Journalism",
+          "ideal_for_students_interested_in": [
+            "History and culture",
+            "Politics and governance",
+            "Social issues and reforms",
+            "Teaching and communication"
+          ],
+          "subjects": [
+            "History",
+            "Economics",
+            "Civics"
+          ],
+          "career_paths": [
+            {
+              "name": "BA in History, Political Science, Sociology, Psychology",
+              "description": "A Bachelor of Arts (BA) in History, Political Science, Sociology, or Psychology provides a foundational understanding of society, politics, human behavior, and historical events. These 3-year undergraduate programs develop critical thinking, writing, and research skills. Graduates can pursue careers in civil services, teaching, journalism, social work, or continue with higher education like MA, M.Phil, or Ph.D. These degrees are also excellent for preparing for competitive exams like UPSC or SSC."
+            },
+            {
+              "name": "UPSC, State PSC (Civil Services)",
+              "description": "The Union Public Service Commission (UPSC) and State Public Service Commissions (State PSCs) conduct exams to recruit candidates for prestigious administrative roles like IAS, IPS, IFS, and state civil services. These exams typically require a bachelor’s degree in any discipline. The selection process involves three stages: Preliminary, Mains, and Interview. Civil service careers involve policy-making, governance, law enforcement, and public administration. Popular among humanities graduates due to overlapping syllabus with subjects like history, polity, and sociology."
+            },
+            {
+              "name": "Teaching, Research, Journalism",
+              "description": "Humanities graduates can pursue teaching (school or college), academic research, or journalism. For teaching in schools, degrees like B.Ed. or M.Ed. are needed along with exams like CTET or TET. For college/university-level teaching, a Master’s degree followed by NET (National Eligibility Test) is required. Journalism careers may begin with a degree in mass communication, media studies, or English. Research roles can be pursued after post-graduation in social sciences or humanities."
+            },
+            {
+              "name": "Language Studies, International Relations",
+              "description": "Language studies involve learning Indian or foreign languages (like French, German, Spanish, or regional languages) and their literature and culture. Careers include translation, interpretation, language teaching, content localization, and diplomacy. International Relations (IR) focuses on global politics, diplomacy, and foreign policy. IR graduates often work in think tanks, international NGOs, embassies, or pursue the Indian Foreign Service (IFS) through UPSC."
+            },
+            {
+              "name": "Social Work, Anthropology",
+              "description": "Social Work and Anthropology deal with understanding and improving human conditions in diverse social and cultural settings. A degree in Social Work (like BSW or MSW) opens roles in NGOs, community development, child welfare, and healthcare. Anthropology focuses on human societies, cultures, and biological development. Careers include academic research, fieldwork, policy advising, and roles in museums, archaeology, or international development organizations."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "CUET",
+              "description": "CUET (Common University Entrance Test) is conducted by the National Testing Agency (NTA) for admission to undergraduate programs in central and many state/private universities across India. It covers language, domain-specific subjects (like History, Polity, Psychology, Sociology), and general aptitude. It's commonly used for BA admissions in arts and humanities courses in universities like DU, BHU, JNU, and others."
+            },
+            {
+              "name": "UPSC (after graduation)",
+              "description": "UPSC (Union Public Service Commission) conducts the Civil Services Examination for recruitment into services like IAS, IPS, IFS, IRS, etc. It is a graduate-level exam with three stages: Prelims (objective), Mains (descriptive), and Interview. Humanities graduates are often well-suited due to overlapping subjects such as History, Political Science, Sociology, and Anthropology. Minimum eligibility is a bachelor’s degree in any discipline."
+            },
+            {
+              "name": "CTET/TET (for teaching)",
+              "description": "CTET (Central Teacher Eligibility Test) and State TETs are qualifying exams for teaching in government and private schools. They are mandatory for candidates who wish to teach from Class 1 to 8 in CBSE-affiliated or state schools. Eligibility includes completing a B.Ed. or D.El.Ed. along with graduation. The exams test pedagogy, child development, subject knowledge, and teaching methodology."
+            },
+            {
+              "name": "University-specific exams",
+              "description": "Many universities conduct their own entrance exams for humanities and social science programs such as BA, MA, MSW, or M.Phil. These exams may include objective or descriptive tests in subjects like history, political science, sociology, psychology, or language proficiency. Some prominent institutions like TISS (for social work), JNU (for political science and international relations), and Delhi University conduct such exams for specific departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vocational Courses (Intermediate Vocational Education)",
+      "duration": "2 years",
+      "purpose": "Intermediate Vocational Education is designed to blend general academic learning with industry-oriented skill development, enabling students to be job-ready right after Class 12 or to pursue higher technical education. Offered by various state boards and vocational education bodies, these courses focus on practical skills in areas such as engineering trades, computer applications, healthcare, agriculture, hospitality, and more. Alongside core academic subjects like language, mathematics, and science, students receive hands-on training through workshops, laboratories, internships, and real-world projects in their chosen vocational stream. This approach not only enhances employability but also equips students with entrepreneurial abilities and problem-solving skills relevant to their field. Vocational Intermediate education is particularly beneficial for students who wish to enter the workforce early, start their own business, or opt for diploma and degree programs in specialized domains. The curriculum is aligned with industry standards, often in collaboration with sector skill councils, ensuring that graduates are competent and competitive in the job market. Additionally, it opens pathways for both lateral entry into higher technical studies and direct employment in skilled trades, making it a flexible and career-focused alternative to purely academic streams.",
+      "streams": [
+        {
+          "name": "Computer Science",
+          "description": "Computer Science: Equips students with programming, data structures, algorithms, software development, database management, and IT skills necessary for a career in technology and computing fields.",
+          "best_for": "IT jobs, software development, digital skills",
+          "career_paths": [
+            {
+              "name": "IT Technician",
+              "description": "Responsible for maintaining and troubleshooting computer systems and networks."
+            },
+            {
+              "name": "Junior Developer",
+              "description": "Assists in writing and testing code under the guidance of senior developers."
+            },
+            {
+              "name": "Help Desk Support",
+              "description": "Provides technical support and resolves IT-related issues for users."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "CUET",
+              "description": "Common University Entrance Test for admission into undergraduate programs including vocational courses in certain universities."
+            },
+            {
+              "name": "State Vocational Entrance Exams",
+              "description": "State-level exams for admission into vocational courses related to computer science and IT."
+            }
+          ]
+        },
+        {
+          "name": "Agriculture",
+          "description": "Agriculture: Covers modern farming techniques, crop production, soil science, animal husbandry, and sustainable agricultural practices aimed at improving food production and rural development.",
+          "best_for": "Agricultural field work, farm management",
+          "career_paths": [
+            {
+              "name": "Agriculture Extension Worker",
+              "description": "Works with farmers to improve agricultural practices through education and technology dissemination."
+            },
+            {
+              "name": "Farm Supervisor",
+              "description": "Oversees daily farm operations and supervises workers and crop/livestock management."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Agriculture Entrance Exams",
+              "description": "Exams conducted by states for entry into diploma and vocational programs in agriculture."
+            }
+          ]
+        },
+        {
+          "name": "Health & Paramedical",
+          "description": "Health & Paramedical: Provides knowledge in medical support, emergency care, diagnostics, patient management, and allied health sciences for roles in healthcare assistance and paramedical services.",
+          "best_for": "Healthcare support roles",
+          "career_paths": [
+            {
+              "name": "Lab Technician",
+              "description": "Performs laboratory tests and assists in diagnosis and treatment."
+            },
+            {
+              "name": "Health Assistant",
+              "description": "Provides basic healthcare services and supports medical staff."
+            },
+            {
+              "name": "Medical Store Manager",
+              "description": "Manages medical store operations including inventory and sales of pharmaceutical products."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Paramedical Entrance Exams",
+              "description": "Entrance tests for diploma/vocational paramedical programs at state level."
+            }
+          ]
+        },
+        {
+          "name": "Tourism & Hospitality",
+          "description": "Tourism & Hospitality: Prepares students for careers in travel, hotel management, event planning, customer service, and cultural tourism by teaching management and operational skills in the hospitality industry.",
+          "best_for": "Hotel and travel services",
+          "career_paths": [
+            {
+              "name": "Front Desk Executive",
+              "description": "Handles guest check-ins, reservations, and customer service at hospitality establishments."
+            },
+            {
+              "name": "Tour Guide",
+              "description": "Provides guided tours and information about tourist destinations."
+            },
+            {
+              "name": "Restaurant Supervisor",
+              "description": "Oversees staff and operations in a restaurant setting ensuring customer satisfaction."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Tourism Courses Admission Tests",
+              "description": "State-level tests for hospitality and tourism-related vocational course admissions."
+            }
+          ]
+        },
+        {
+          "name": "Office Secretaryship",
+          "description": "Office Secretaryship: Focuses on administrative skills, office management, communication, document handling, and basic accounting to efficiently support organizational operations.",
+          "best_for": "Administration, clerical roles",
+          "career_paths": [
+            {
+              "name": "Office Assistant",
+              "description": "Performs routine office tasks including documentation and scheduling."
+            },
+            {
+              "name": "Receptionist",
+              "description": "Greets visitors, handles calls, and manages front desk duties."
+            },
+            {
+              "name": "Data Entry Operator",
+              "description": "Inputs data into computer systems with accuracy and speed."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Vocational Admission Score",
+              "description": "Score required for admission into state-run vocational programs in office management."
+            }
+          ]
+        },
+        {
+          "name": "Retail & Marketing",
+          "description": "Retail & Marketing: This course trains students in sales strategies, consumer behavior, supply chain management, brand promotion, and merchandising for effective management and growth of retail businesses.",
+          "best_for": "Sales and marketing roles",
+          "career_paths": [
+            {
+              "name": "Retail Sales Associate",
+              "description": "Assists customers in retail stores and promotes product sales."
+            },
+            {
+              "name": "Marketing Executive",
+              "description": "Executes marketing strategies, campaigns, and market research to promote products/services."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "Retail Vocational Admission Tests",
+              "description": "Tests conducted for admission into retail and marketing vocational programs."
+            }
+          ]
+        },
+        {
+          "name": "Fashion & Garment Technology",
+          "description": "Fashion & Garment Technology: A field that combines creative design and technical skills to develop, produce, and manage fashion apparel, focusing on garment construction, textile science, sustainable practices, and fashion merchandising.",
+          "best_for": "Fashion design, garment manufacturing",
+          "career_paths": [
+            {
+              "name": "Tailor",
+              "description": "Cuts, stitches, and alters garments as per design or measurements."
+            },
+            {
+              "name": "Fashion Assistant",
+              "description": "Assists designers in creating and managing fashion collections."
+            },
+            {
+              "name": "Quality Inspector",
+              "description": "Inspects clothing and garments to ensure quality and standards are met."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Fashion Vocational Admissions",
+              "description": "Entrance tests for admission to vocational courses in fashion and garment technology."
+            }
+          ]
+        }
+      ],
+      "career_options": [
+        "Jobs in relevant industries",
+        "Can also pursue higher education in related field"
+      ]
+    },
+    {
+      "name": "Polytechnic (Diploma Courses)",
+      "duration": "3 years",
+      "purpose": "Polytechnic Diploma Courses offer specialized technical education after Class 10, focusing on hands-on skills and practical training that prepare students for both immediate employment and higher education in engineering and related fields. These programs are offered by government and private polytechnic institutions across India, with disciplines such as Mechanical Engineering, Civil Engineering, Electrical Engineering, Electronics, Computer Science, Automobile Engineering, and more. The curriculum is designed to provide strong foundational knowledge of core subjects while emphasizing real-world applications through laboratory sessions, workshops, industrial visits, and internships. This approach ensures that students develop problem-solving abilities, technical proficiency, and industry-relevant expertise. Polytechnic graduates can directly enter the workforce in roles such as junior engineers, technicians, supervisors, or skilled operators in various sectors including manufacturing, construction, IT, and public services. Additionally, they have the option to pursue higher education by enrolling in engineering degree programs through lateral entry (direct admission into the second year of B.Tech/B.E). Polytechnic education is valued for its shorter duration compared to traditional degree programs, cost-effectiveness, and strong employability prospects, making it an attractive choice for students seeking a skill-based and career-focused path right after secondary school.",
+      "streams": [
+        {
+          "name": "Diploma in Mechanical Engineering",
+          "description": "Diploma in Mechanical Engineering: Focuses on machine design, manufacturing processes, thermodynamics, and mechanical systems, equipping students for roles in mechanical design, production, and maintenance engineering.",
+          "best_for": "Manufacturing, automotive, and industrial maintenance sectors",
+          "ideal_for_students_interested_in": [
+            "Machines and tools",
+            "Manufacturing processes",
+            "Automobile systems",
+            "Industrial problem-solving"
+          ],
+          "career_paths": [
+            {
+              "name": "Junior Engineer / Mechanical Engineer (after B.Tech)",
+              "description": "You will work on designing, manufacturing, and maintaining mechanical systems like engines, machines, and tools. Industries include manufacturing plants, automotive companies, and heavy machinery sectors."
+            },
+            {
+              "name": "Quality Control Engineer",
+              "description": "Ensures that products meet quality standards through inspection, testing, and process improvements. Common in automotive, aerospace, and manufacturing companies."
+            },
+            {
+              "name": "Manufacturing Technician",
+              "description": "Operates and maintains production machinery, assists in assembly, and optimizes manufacturing processes."
+            },
+            {
+              "name": "Production Supervisor",
+              "description": "Manages production lines, oversees workers, and ensures timely completion of manufacturing targets."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "AP POLYCET",
+              "description": "Conducted in Andhra Pradesh for admission into polytechnic diploma courses in engineering and non-engineering fields."
+            },
+            {
+              "name": "TS POLYCET",
+              "description": "Conducted in Telangana for admission to government and private polytechnic colleges."
+            },
+            {
+              "name": "JEECUP",
+              "description": "Uttar Pradesh Joint Entrance Examination for Polytechnic, granting admission into state polytechnic institutions."
+            },
+            {
+              "name": "JEXPO",
+              "description": "West Bengal state-level polytechnic entrance for engineering and technology diploma courses."
+            },
+            {
+              "name": "Odisha DET",
+              "description": "Odisha Diploma Entrance Test for engineering and non-engineering polytechnic admissions."
+            }
+          ]
+        },
+        {
+          "name": "Diploma in Civil Engineering",
+          "description": "Diploma in Civil Engineering: Deals with construction technology, surveying, structural design, and project management, preparing students for careers in construction, infrastructure development, and site supervision.",
+          "best_for": "Construction, infrastructure development, and structural design",
+          "ideal_for_students_interested_in": [
+            "Building design",
+            "Construction management",
+            "Urban planning",
+            "Infrastructure development"
+          ],
+          "career_paths": [
+            {
+              "name": "Site Supervisor",
+              "description": "Oversees construction work on-site, ensuring safety, quality, and timely completion."
+            },
+            {
+              "name": "Junior Engineer (Civil)",
+              "description": "Assists in planning, designing, and supervising construction projects like buildings, roads, and bridges."
+            },
+            {
+              "name": "Draftsman",
+              "description": "Creates technical drawings and plans for construction projects using CAD tools."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "AP POLYCET",
+              "description": "Polytechnic entrance exam for Andhra Pradesh."
+            },
+            {
+              "name": "TS POLYCET",
+              "description": "Polytechnic entrance exam for Telangana."
+            },
+            {
+              "name": "JEECUP",
+              "description": "Polytechnic entrance exam for Uttar Pradesh."
+            }
+          ]
+        },
+        {
+          "name": "Diploma in Electrical/Electronics",
+          "description": "Diploma in Electrical/Electronics Engineering: Teaches fundamentals of electrical circuits, electronics devices, power systems, and automation, enabling careers in electrical design, maintenance, control systems, and electronics manufacturing.",
+          "best_for": "Electrical systems, power distribution, and electronics maintenance",
+          "ideal_for_students_interested_in": [
+            "Electrical circuits",
+            "Electronics repair",
+            "Power generation and transmission",
+            "Automation systems"
+          ],
+          "career_paths": [
+            {
+              "name": "Electrical Technician",
+              "description": "Installs, maintains, and repairs electrical systems in buildings, factories, and industries."
+            },
+            {
+              "name": "Maintenance Engineer",
+              "description": "Ensures smooth functioning of machines and electrical equipment in industrial settings."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "AP POLYCET",
+              "description": "Entrance exam for diploma courses in Andhra Pradesh."
+            },
+            {
+              "name": "TS POLYCET",
+              "description": "Entrance exam for diploma courses in Telangana."
+            },
+            {
+              "name": "JEECUP",
+              "description": "Entrance exam for diploma courses in Uttar Pradesh."
+            }
+          ]
+        },
+        {
+          "name": "Diploma in Computer Science / IT",
+          "description": "Diploma in Computer Science / IT: Covers programming, software development, networking, database management, and IT infrastructure, preparing students for roles in software development, system administration, and IT support.",
+          "best_for": "Software development, IT support, and networking",
+          "ideal_for_students_interested_in": [
+            "Programming",
+            "Web and app development",
+            "Networking",
+            "System administration"
+          ],
+          "career_paths": [
+            {
+              "name": "Programmer",
+              "description": "Writes and maintains code for software applications, websites, or systems."
+            },
+            {
+              "name": "Support Engineer",
+              "description": "Provides technical assistance to users, troubleshoots hardware/software issues."
+            },
+            {
+              "name": "System Operator",
+              "description": "Manages computer systems, databases, and networks for organizations."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "AP POLYCET",
+              "description": "Entrance exam for diploma courses in Andhra Pradesh."
+            },
+            {
+              "name": "TS POLYCET",
+              "description": "Entrance exam for diploma courses in Telangana."
+            },
+            {
+              "name": "JEECUP",
+              "description": "Entrance exam for diploma courses in Uttar Pradesh."
+            }
+          ]
+        },
+        {
+          "name": "Diploma in Automobile, Architecture",
+          "description": "Diploma in Automobile, Architecture: Diploma in Automobile Engineering focuses on the design, manufacturing, maintenance, and repair of vehicles and automotive systems, preparing students for careers as automotive technicians, engineers, and quality controllers in the automotive industry, while Diploma in Architecture covers building design, construction techniques, structural planning, and environmental sustainability, equipping students for roles in architectural drafting, urban planning, and construction management.",
+          "best_for": "Automotive service, architecture technology, and specialized technical fields",
+          "ideal_for_students_interested_in": [
+            "Vehicle maintenance",
+            "Design and drafting",
+            "Specialized industrial skills"
+          ],
+          "career_paths": [
+            {
+              "name": "Auto Technician",
+              "description": "Diagnoses and repairs vehicles, works in automobile workshops or manufacturing plants."
+            },
+            {
+              "name": "Architectural Drafter",
+              "description": "Prepares detailed drawings and plans for architectural projects."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State Polytechnic Entrance Exams (PolyCET)",
+              "description": "Various state-level exams for admission to diploma courses."
+            }
+          ]
+        }
+      ],
+      "career_options": [
+        "Government and private sector jobs in relevant industries",
+        "Lateral entry into B.Tech (2nd year) through state or national-level entrance exams"
+      ]
+    },
+    {
+      "name": "ITI (Industrial Training Institute)",
+      "duration": "6 months – 2 years",
+      "purpose": "Industrial Training Institutes (ITIs) provide specialized skill-based vocational training in a wide range of technical and non-technical trades, preparing students for direct entry into the workforce, self-employment, or further technical education. Open to students who have completed Class 8, 10, or 12 (depending on the trade), ITI programs are offered by both government and private institutions across India under the regulation of the Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship. The curriculum emphasizes practical, hands-on training in trades such as electrician, fitter, welder, mechanic, plumber, computer operator, refrigeration and air conditioning technician, and more. Training is conducted in well-equipped workshops and labs, often complemented by industrial visits and apprenticeship opportunities to give students real-world exposure. ITI graduates are highly sought after in manufacturing, construction, automotive, electrical, and service sectors, with many also choosing to start their own businesses or work as independent contractors. Additionally, ITI certification allows students to pursue higher technical qualifications such as polytechnic diplomas or advanced vocational courses, providing flexibility in career progression. The shorter course duration, affordable fees, and direct employability make ITIs an excellent choice for students aiming for a skill-oriented and industry-ready career path.",
+      "streams": [
+        {
+          "name": "Electrician",
+          "description": "Electrician: Teaches electrical systems installation, troubleshooting, wiring, and safety regulations, preparing students for work in residential, commercial, and industrial electrical maintenance and installation.",
+          "best_for": "Electrical maintenance, wiring, and power distribution",
+          "ideal_for_students_interested_in": [
+            "Working with electrical systems",
+            "Installing wiring and circuits",
+            "Repairing electrical equipment"
+          ],
+          "career_paths": [
+            {
+              "name": "Electrician (Private/Government)",
+              "description": "Installs and repairs electrical systems in homes, offices, factories, and public infrastructure. Can work in government electricity boards or private companies."
+            },
+            {
+              "name": "Maintenance Technician",
+              "description": "Ensures smooth operation of machines and electrical systems in industrial plants."
+            },
+            {
+              "name": "Freelance Electrical Contractor",
+              "description": "Works independently, handling residential and commercial electrical projects."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State ITI Merit List",
+              "description": "Most states offer ITI admission based on Class 10 marks or local merit lists."
+            },
+            {
+              "name": "ITICAT (Bihar)",
+              "description": "Entrance exam for admission into ITIs in Bihar."
+            }
+          ],
+          "starting_salary": "₹15,000–₹25,000/month"
+        },
+        {
+          "name": "Fitter",
+          "description": "Fitter: Develops skills in assembling, fitting, and maintaining machinery, tools, and equipment, suitable for roles in manufacturing, maintenance workshops, and mechanical industries.",
+          "best_for": "Mechanical assembly and machine maintenance",
+          "ideal_for_students_interested_in": [
+            "Mechanical systems",
+            "Machine parts assembly",
+            "Industrial maintenance work"
+          ],
+          "career_paths": [
+            {
+              "name": "Fitter",
+              "description": "Assembles, repairs, and maintains mechanical parts in factories, workshops, and industries."
+            },
+            {
+              "name": "Machine Operator",
+              "description": "Operates machinery in manufacturing plants and ensures smooth functioning."
+            },
+            {
+              "name": "Industrial Maintenance Technician",
+              "description": "Maintains and repairs industrial machines to avoid production downtime."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State-based merit or exam",
+              "description": "Admissions are based on Class 10 marks or a state-level ITI entrance exam."
+            }
+          ],
+          "starting_salary": "₹14,000–₹22,000/month"
+        },
+        {
+          "name": "Mechanic (Motor Vehicle / Diesel)",
+          "description": "Mechanic (Motor Vehicle / Diesel): Trains students in diagnosing, repairing, and maintaining motor vehicles and diesel engines, preparing them for careers in automotive and heavy vehicle servicing and maintenance.",
+          "best_for": "Vehicle engine maintenance and logistics",
+          "ideal_for_students_interested_in": [
+            "Automobile repair",
+            "Diesel engines",
+            "Fleet management"
+          ],
+          "career_paths": [
+            {
+              "name": "Diesel Mechanic",
+              "description": "Specializes in repairing and maintaining diesel engines for trucks, buses, and generators."
+            },
+            {
+              "name": "Auto Repair Technician",
+              "description": "Diagnoses and fixes vehicle engine and mechanical problems."
+            },
+            {
+              "name": "Fleet Maintenance Supervisor",
+              "description": "Manages repair and upkeep of vehicles in transport and logistics companies."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State-based merit or exam",
+              "description": "Admissions are based on Class 10 marks or a state-level ITI entrance exam."
+            }
+          ],
+          "starting_salary": "₹13,000–₹20,000/month"
+        },
+        {
+          "name": "Welder",
+          "description": "Welder: Focuses on various welding techniques, metal fabrication, safety practices, and equipment handling, equipping students to work in manufacturing, construction, and repair industries as skilled welders.",
+          "best_for": "Fabrication, construction, and metalworks",
+          "ideal_for_students_interested_in": [
+            "Metal cutting and joining",
+            "Construction projects",
+            "Industrial fabrication"
+          ],
+          "career_paths": [
+            {
+              "name": "Welder",
+              "description": "Joins and repairs metal parts using welding techniques in construction and manufacturing."
+            },
+            {
+              "name": "Fabricator",
+              "description": "Creates metal structures, frames, and parts as per design specifications."
+            },
+            {
+              "name": "Sheet Metal Worker",
+              "description": "Works with thin metal sheets to create parts and products."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State-based merit or exam",
+              "description": "Admissions are based on merit or entrance exams conducted by the state."
+            }
+          ]
+        },
+        {
+          "name": "COPA (Computer Operator & Programming Assistant)",
+          "description": "COPA (Computer Operator & Programming Assistant): A vocational course that trains students in computer fundamentals, office automation, programming basics, networking, and IT support, preparing them for roles as computer operators, programming assistants, and technical support staff.",
+          "best_for": "IT support, data entry, and basic programming",
+          "ideal_for_students_interested_in": [
+            "Computer operations",
+            "Basic coding",
+            "Office software"
+          ],
+          "career_paths": [
+            {
+              "name": "Data Entry Operator",
+              "description": "Inputs and manages data for organizations using computers and software tools."
+            },
+            {
+              "name": "Junior Programmer",
+              "description": "Writes basic computer programs and assists in software development."
+            },
+            {
+              "name": "IT Support Technician",
+              "description": "Provides technical support to users, troubleshoots basic IT issues."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "State-based merit or exam",
+              "description": "Admission depends on Class 10 marks or a state-conducted entrance."
+            }
+          ],
+          "starting_salary": "₹12,000–₹18,000/month"
+        }
+      ],
+      "career_options": [
+        "Technician jobs in private and government sectors",
+        "Can work as an apprentice to gain experience and higher pay",
+        "Can start own business in the trade",
+        "Can pursue higher education such as a Polytechnic Diploma"
+      ]
+    },
+
+    
+    {
+      "name": "Open Schooling (NIOS / State Open Schools)",
+      "duration": "2 years (for 12th)",
+      "purpose": "Open Schooling provides an alternative and highly flexible education system for students who cannot attend regular school due to various reasons such as professional commitments, health conditions, distance barriers, personal circumstances, or the need for more time to focus on competitive exams. Managed by the National Institute of Open Schooling (NIOS) and various State Open Schools, this system allows students to choose subjects, set their own pace, and prepare for board exams without the rigid schedule of traditional schooling. The curriculum is recognized by universities, colleges, and government recruitment bodies, making it equally valid as CBSE, ICSE, or state board qualifications. This makes Open Schooling an excellent choice for athletes, performing artists, working individuals, students preparing for entrance exams, and those who wish to reattempt Class 12 after a gap. Additionally, it offers multiple exam attempts in a year, the facility to transfer credits from other boards, and the option to learn vocational courses alongside academics.",
+      "streams": [
+        {
+          "name": "MPC (Mathematics, Physics, Chemistry)",
+          "description": "Centers on mathematics and physical sciences, suited for students targeting engineering, technology, and pure science fields with the convenience of open learning.",
+          "best_for": "Building a strong science foundation and preparing for engineering, architecture, or technology-related entrance exams.",
+          "ideal_for_students_interested_in": [
+            "Engineering and technology",
+            "Mathematics and problem-solving",
+            "Physics experiments and applications",
+            "Competitive exams like JEE"
+          ],
+          "career_paths": [
+            {
+              "name": "Engineering Aspirant",
+              "description": "Students can prepare for engineering entrance exams such as JEE Main, JEE Advanced, and state-level engineering exams like EAMCET. After completing Class 12, they can pursue B.Tech/B.E. in various engineering fields such as Computer Science, Mechanical, Civil, Electrical, or Electronics."
+            },
+            {
+              "name": "Science Graduate Pathway",
+              "description": "Graduates from this stream can pursue B.Sc. degrees in Physics, Mathematics, or Computer Science, and later opt for research, teaching, or technical jobs."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "Flexible boards help focus on JEE / NEET",
+              "description": "Since NIOS and State Open Schools have fewer mandatory academic activities and a flexible study timetable, students can devote more hours to preparing for competitive exams without distractions."
+            }
+          ]
+        },
+        {
+          "name": "BiPC (Biology, Physics, Chemistry)",
+          "description": "Focuses on science subjects with an emphasis on biology, preparing students for medical, paramedical, and life sciences careers through flexible study options.",
+          "best_for": "Medical entrance preparation, life sciences, and healthcare careers.",
+          "ideal_for_students_interested_in": [
+            "Healthcare and medicine",
+            "Biological research",
+            "Pharmaceutical sciences",
+            "Medical entrance exams like NEET"
+          ],
+          "career_paths": [
+            {
+              "name": "Medical Aspirant",
+              "description": "Students can focus on NEET preparation for MBBS, BDS, BAMS, BHMS, or veterinary courses while completing their Class 12 education."
+            },
+            {
+              "name": "Allied Health Sciences",
+              "description": "Can opt for courses like B.Pharmacy, B.Sc. Nursing, Physiotherapy, Microbiology, or Biotechnology, leading to careers in laboratories, hospitals, and research institutions."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "NIOS flexibility aids NEET prep",
+              "description": "The freedom to design their study schedule allows students to allocate maximum time to NEET syllabus coverage, mock tests, and coaching."
+            }
+          ]
+        },
+        {
+          "name": "Commerce",
+          "description": "Includes subjects such as Economics, Business Studies, and Accountancy, designed for learners aiming for careers in business, finance, management, and entrepreneurship.",
+          "best_for": "Business, finance, banking, and entrepreneurship.",
+          "ideal_for_students_interested_in": [
+            "Economics and trade",
+            "Accounting and finance",
+            "Entrepreneurship",
+            "Corporate management"
+          ],
+          "career_paths": [
+            {
+              "name": "Business and Finance Professional",
+              "description": "Can pursue B.Com, BBA, BMS, or Economics degrees and work in sectors like banking, taxation, auditing, and business management."
+            },
+            {
+              "name": "CA/CS/CMA Foundation Preparation",
+              "description": "Can prepare for professional qualifications like Chartered Accountant (CA), Company Secretary (CS), or Cost and Management Accountant (CMA) alongside or after completing Class 12."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "CUET",
+              "description": "Common University Entrance Test for admission to central and some state universities."
+            },
+            {
+              "name": "CA Foundation",
+              "description": "Entry-level exam for becoming a Chartered Accountant, testing accounting, business laws, and economics."
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "description": "Offers subjects like History, Political Science, Geography, and Psychology, providing flexible learning for students interested in humanities, social sciences, and creative fields.",
+          "best_for": "Humanities, journalism, civil services, and social sciences.",
+          "ideal_for_students_interested_in": [
+            "Social studies and political science",
+            "Creative arts and literature",
+            "Public administration",
+            "Media and communication"
+          ],
+          "career_paths": [
+            {
+              "name": "Humanities Graduate",
+              "description": "Can pursue degrees like B.A., BJMC (Journalism), BSW (Social Work), or BFA (Fine Arts) for careers in education, media, arts, or social development."
+            },
+            {
+              "name": "Civil Services Aspirant",
+              "description": "Ideal for preparing for UPSC or State PSC exams while completing Class 12, as the subjects overlap with exam syllabi."
+            }
+          ],
+          "entrance_exams": [
+            {
+              "name": "Civil Services (UPSC)",
+              "description": "Prestigious national-level exam for IAS, IPS, IFS, and other administrative posts."
+            },
+            {
+              "name": "State PSC",
+              "description": "State Public Service Commission exams for regional administrative jobs."
+            }
+          ]
+        }
+      ],
+      "career_options": [
+        "Eligible for higher education in universities, professional colleges, and vocational institutes after completion.",
+        "Ideal for students managing sports, work, or personal responsibilities alongside education.",
+        "Suitable for dropouts seeking to rejoin academics without age restrictions.",
+        "Helps competitive exam aspirants dedicate more time to focused preparation."
+      ]
+    },
+    {
+      "name": "Skill Development Courses",
+      "duration": "Few weeks to 1 year",
+      "purpose": "Skill Development Courses are short-term training programs designed to teach practical, job-oriented skills. They focus on hands-on learning and industry-relevant knowledge so that students, working professionals, or even beginners can quickly become employable. These courses are ideal for those who want to start a career immediately, switch professions, or gain an additional skill to boost income. Most programs have no strict eligibility criteria and are open to anyone interested in learning.",
+      "streams": [
+        {
+          "name": "Digital Marketing",
+          "description": "Covers online marketing strategies, social media management, SEO, and content creation, preparing students for careers as social media executives, SEO specialists, content marketing managers, and freelance digital marketers.",
+          "best_for": "Individuals interested in online marketing, brand promotion, and social media management.",
+          "career_paths": [
+            {
+              "name": "Social Media Executive",
+              "description": "Manages brand presence on platforms like Facebook, Instagram, LinkedIn, and Twitter. Responsibilities include creating posts, engaging with followers, running ads, and tracking performance metrics."
+            },
+            {
+              "name": "SEO Specialist",
+              "description": "Focuses on improving website visibility on search engines through keyword research, link building, and on-page/off-page optimization."
+            },
+            {
+              "name": "Freelance Digital Marketer",
+              "description": "Offers independent marketing services to multiple clients, handling social media, content creation, and online ad campaigns."
+            },
+            {
+              "name": "Content Marketing Manager",
+              "description": "Plans and executes content strategies, oversees blog writing, email newsletters, and campaigns aimed at attracting and retaining customers."
+            }
+          ],
+          "entrance_exams": [
+            "No formal exam — admission based on institute process"
+          ]
+        },
+        {
+          "name": "Graphic Design",
+          "description": "Develops skills in creating visual content using tools like Photoshop and Illustrator, suitable for roles as graphic designers, UI designers, creative artists, and freelance digital designers.",
+          "best_for": "Creative individuals interested in visual storytelling and designing graphics for brands.",
+          "career_paths": [
+            {
+              "name": "Graphic Designer",
+              "description": "Creates visual concepts for branding, marketing materials, websites, and social media using tools like Photoshop and Illustrator."
+            },
+            {
+              "name": "UI Designer",
+              "description": "Designs user-friendly digital interfaces for websites and mobile apps, focusing on layout, colors, and overall user experience."
+            },
+            {
+              "name": "Creative Artist",
+              "description": "Produces illustrations, concept art, and unique visual assets for marketing campaigns, games, or entertainment media."
+            },
+            {
+              "name": "Freelance Designer",
+              "description": "Works independently with clients to create logos, advertisements, packaging designs, and digital creatives."
+            }
+          ],
+          "entrance_exams": [
+            "Portfolio submission or institute-based screening"
+          ]
+        },
+        {
+          "name": "Mobile Repair",
+          "description": "Teaches troubleshooting, repairing hardware and software issues, and component replacement for mobile devices, enabling careers as mobile repair technicians, service center specialists, or shop owners.",
+          "best_for": "Those interested in electronics repair and mobile troubleshooting.",
+          "career_paths": [
+            {
+              "name": "Mobile Repair Technician",
+              "description": "Diagnoses and repairs mobile phone hardware and software issues, replacing faulty components and updating firmware."
+            },
+            {
+              "name": "Service Center Specialist",
+              "description": "Works in authorized service centers, handling customer complaints and repairing devices as per manufacturer guidelines."
+            },
+            {
+              "name": "Shop Owner",
+              "description": "Runs a mobile repair business, offering repairs, accessories, and mobile-related services to customers."
+            }
+          ],
+          "entrance_exams": [
+            "No formal exam"
+          ]
+        },
+        {
+          "name": "Tailoring",
+          "description": "Focuses on garment stitching, alteration, pattern making, and basic fashion design, preparing students for vocations as tailors, garment makers, and boutique owners.",
+          "best_for": "People interested in garment creation, stitching, and basic fashion design.",
+          "career_paths": [
+            {
+              "name": "Tailor",
+              "description": "Specializes in stitching and altering garments based on customer measurements and style preferences."
+            },
+            {
+              "name": "Garment Maker",
+              "description": "Works in clothing factories to produce garments in bulk, following industrial stitching standards."
+            },
+            {
+              "name": "Boutique Owner",
+              "description": "Runs a clothing business offering custom designs, stitching, and ready-made apparel."
+            }
+          ],
+          "entrance_exams": [
+            "No formal exam"
+          ]
+        },
+        {
+          "name": "Beauty & Wellness",
+          "description": "Equips learners with practical knowledge of beauty treatments, skincare, makeup application, and salon management, ideal for careers as beauticians, makeup artists, and salon managers.",
+          "best_for": "Individuals aiming to work in salons, spas, or start beauty-related businesses.",
+          "career_paths": [
+            {
+              "name": "Beautician",
+              "description": "Provides beauty treatments such as facials, hair removal, and basic skincare services."
+            },
+            {
+              "name": "Makeup Artist",
+              "description": "Applies professional makeup for events, photoshoots, and media productions."
+            },
+            {
+              "name": "Salon Manager",
+              "description": "Oversees salon operations, manages staff, handles customer bookings, and ensures quality service."
+            }
+          ],
+          "entrance_exams": [
+            "No formal exam"
+          ]
+        },
+        {
+          "name": "Data Entry",
+          "description": "Provides skills in accurate and efficient data input, database maintenance, and administrative support, suitable for roles like data entry operator, office assistant, and back-office executive in various industries.",
+          "best_for": "Those interested in clerical, administrative, and computer-based jobs.",
+          "career_paths": [
+            {
+              "name": "Data Entry Operator",
+              "description": "Enters, updates, and maintains digital records accurately using spreadsheets or database software."
+            },
+            {
+              "name": "Office Assistant",
+              "description": "Performs administrative tasks such as document preparation, record-keeping, and scheduling."
+            },
+            {
+              "name": "Back Office Executive",
+              "description": "Handles data processing, reporting, and internal documentation for companies."
+            }
+          ],
+          "entrance_exams": [
+            "No formal exam"
+          ]
+        },
+        {
+          "name": "Animation,VFX",
+          "description": "Trains creative individuals in 2D and 3D animation, visual effects production, and digital storytelling, preparing them for careers as animators, VFX artists, and freelance visual creators in film, gaming, and advertising industries.",
+          "best_for": "Creative individuals aiming for careers in films, gaming, or visual effects.",
+          "career_paths": [
+            {
+              "name": "Animator",
+              "description": "Creates 2D or 3D animations for movies, advertisements, games, and digital platforms."
+            },
+            {
+              "name": "VFX Artist",
+              "description": "Develops visual effects for films, TV shows, and ads using software like After Effects and Maya."
+            },
+            {
+              "name": "Freelance Visual Artist",
+              "description": "Works independently on animation and VFX projects for clients across media industries."
+            }
+          ],
+          "entrance_exams": [
+            "Portfolio-based screening"
+          ]
+        }
+      ],
+      "offered_by": [
+        "National Skill Development Corporation (NSDC)",
+        "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "Private Institutes and Training Centers"
+      ]
+    }
+  ]
+}

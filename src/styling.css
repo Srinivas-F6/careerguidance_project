@@ -1,0 +1,137 @@
+* {
+  font-family: "poppins", sans-serif;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.NavBarsection {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  box-shadow: 0px 2px 4px rgb(23, 191, 203);
+  z-index: 1000;
+  position: relative;
+}
+
+.left {
+  margin-left: 23px;
+  font-weight: bolder;
+  text-align: center;
+  background: linear-gradient(60deg, #46eaf9, #46eaf9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.left-img img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: aliceblue;
+  margin-left: 35px;
+}
+
+.right {
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+.right nav {
+  display: flex;
+}
+
+.right nav ul {
+  display: flex;
+  gap: 35px;
+  margin-right: 20px;
+  list-style: none;
+}
+
+.right nav ul li a {
+  text-decoration: none;
+  font-size: 22px;
+  color: aliceblue;
+  font-weight: bold;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.right nav ul li a:hover {
+  background: linear-gradient(135deg, #46eaf9, #ba8aea);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transform: scale(1.1);
+}
+
+@media(max-width: 480px) {
+  .NavBarsection {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-shadow: 0px 2px 4px rgb(23, 191, 203);
+    z-index: 1000;
+    position: relative;
+  }
+
+  .left {
+    margin-left: 15px;
+    font-weight: bolder;
+    font-size: 12px;
+    text-align: center;
+    background: linear-gradient(60deg, #46eaf9, #46eaf9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .left-img img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin-left: 5px;
+  }
+
+  .right nav {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .right nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-top: 4px;
+  }
+
+  .right nav ul li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: aliceblue;
+    font-weight: bold;
+    display: inline-block;
+    transition: all 0.3s ease;
+  }
+
+  .right nav ul li a:hover {
+    background: linear-gradient(135deg, #46eaf9, #ba8aea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transform: scale(1.1);
+  }
+
+}

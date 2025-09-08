@@ -1,0 +1,572 @@
+{
+    "government_exams": [
+        {
+            "name": "APPSC Group 1",
+            "duration": "1-2 years",
+            "purpose": "APPSC Group 1 is the highest-level recruitment exam conducted by the Andhra Pradesh Public Service Commission (APPSC) to select top-tier Gazetted Officers for the state government. These are prestigious administrative and executive posts such as Deputy Collector, Deputy Superintendent of Police (DSP), Deputy Superintendent of Jails, District Fire Officer, Assistant Commissioner, Assistant Treasury Officer, and Mandal Revenue Officer (MRO/Tahsildar).",
+            "eligibility": "Bachelor's Degree in any discipline",
+            "age_limit": "18-42 years",
+            "exam_type": "Prelims, Mains, Interview",
+            "career_paths": [
+                {
+                    "name": "Mandal Revenue Officer (MRO)",
+                    "description": "MROs, also known as Tahsildars, are responsible for revenue administration at the mandal level. Their duties include land record maintenance, collection of land revenue and taxes, overseeing agricultural schemes, managing government welfare programs, handling land disputes, and coordinating with village officers. They serve as the primary link between the government and the citizens at the mandal level, ensuring smooth administration and implementing state policies effectively.",
+                    "salary": "INR 37,100 - 91,450",
+                    "job_location": "Across Andhra Pradesh",
+                    "growth_opportunities": "Promotion to Joint Sub-Collector, Additional Collector, and higher administrative positions in the district or state government."
+                },
+                {
+                    "name": "Deputy Collector",
+                    "description": "Deputy Collectors manage district-level administration, supervise revenue collection, coordinate development activities, enforce law and order, handle elections, disaster management, and government programs. They act as the chief officer in districts under the District Collector and ensure policies are implemented efficiently. This role requires leadership, administrative, and decision-making skills.",
+                    "salary": "INR 56,100 - 1,77,500",
+                    "job_location": "District Headquarters",
+                    "growth_opportunities": "Promotion to District Collector, Commissioner, Secretary, or other senior positions in various state departments."
+                },
+                {
+                    "name": "Assistant Commissioner / Section Officer / Special Officer",
+                    "description": "These are specialized administrative roles under different departments like transport, labor, planning, revenue, or municipal administration. Officers handle policy implementation, departmental supervision, and coordination of schemes, providing a bridge between field administration and state-level policy-making.",
+                    "salary": "INR 50,000 - 1,60,000",
+                    "job_location": "State Departments and District Offices",
+                    "growth_opportunities": "Promotion to higher administrative roles, including Deputy Collector, Joint Collector, or Secretary in state government departments."
+                },
+                {
+                    "name": "Deputy Superintendent of Police (DSP)",
+                    "description": "Responsible for law enforcement and maintenance of public order at district or sub-district level. Supervises police stations, investigations, intelligence gathering, crime prevention, and coordinates with other law enforcement agencies.",
+                    "salary": "INR 56,100 - 2,25,000",
+                    "job_location": "Districts across Andhra Pradesh",
+                    "growth_opportunities": "Promotion to Superintendent of Police, DIG, IG, and higher police leadership positions."
+                },
+                {
+                    "name": "Deputy Superintendent of Jails",
+                    "description": "Manages prisons and correctional facilities at the district level. Ensures security, rehabilitation programs, inmate welfare, and proper administration of prison staff. Coordinates with judicial authorities and other government departments for efficient jail management.",
+                    "salary": "INR 50,000 - 1,60,000",
+                    "job_location": "District Prisons",
+                    "growth_opportunities": "Promotion to Superintendent of Jails, Director of Jails, or other senior corrections positions."
+                },
+                {
+                    "name": "District Fire Officer",
+                    "description": "Oversees fire safety, disaster management, and emergency response within the district. Supervises fire stations, conducts fire drills, enforces safety regulations, and coordinates with disaster management authorities during emergencies.",
+                    "salary": "INR 50,000 - 1,60,000",
+                    "job_location": "District Headquarters",
+                    "growth_opportunities": "Promotion to Chief Fire Officer or senior state-level fire department positions."
+                },
+                {
+                    "name": "Assistant Treasury Officer",
+                    "description": "Responsible for managing government treasury operations, accounts, revenue collection, and financial reporting. Ensures accurate accounting, compliance with financial rules, and proper handling of government funds.",
+                    "salary": "INR 45,000 - 1,50,000",
+                    "job_location": "District Treasury Offices",
+                    "growth_opportunities": "Promotion to Treasury Officer, Senior Treasury Officer, or other finance-related administrative roles."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "APPSC Group 1 Exam",
+                    "description": "Prelims, Mains, Interview with negative marking."
+                }
+            ],
+            "preparation_tips": [
+                "NCERTs for History, Geography, Polity, Economy",
+                "Current Affairs",
+                "Previous Year Papers",
+                "Mock Tests"
+            ]
+        },
+        {
+            "name": "APPSC Group 2",
+            "duration": "1-2 years",
+            "purpose": "APPSC Group 2 is a competitive recruitment exam conducted by the Andhra Pradesh Public Service Commission (APPSC) to appoint executive and non-executive officers in the state government. These posts are slightly below Group 1 in hierarchy but still hold significant administrative power.",
+            "eligibility": "Bachelor's Degree",
+            "age_limit": "18-42 years",
+            "exam_type": "Screening Test, Mains, CPT",
+            "career_paths": [
+                {
+                    "name": "Deputy Tahsildar / Assistant Revenue Officer",
+                    "description": "Deputy Tahsildars assist the Mandal Revenue Officer (MRO) in revenue administration at the mandal level. Their responsibilities include maintaining land records, collecting land revenue and taxes, assisting in the implementation of government welfare schemes, resolving land disputes, and coordinating with village-level officers. They act as the first point of contact between the public and the revenue department, ensuring smooth administration and effective execution of government policies.",
+                    "salary": "INR 35,000 - 75,000",
+                    "job_location": "Across Andhra Pradesh",
+                    "growth_opportunities": "Promotion to Mandal Revenue Officer (MRO), Joint Sub-Collector, and eventually higher administrative roles in the district or state government."
+                },
+                {
+                    "name": "Municipal Assistant / Assistant Section Officer",
+                    "description": "Municipal Assistants or Assistant Section Officers are responsible for clerical and administrative tasks in municipal corporations or state departments. Their duties include handling official files, maintaining records, coordinating the implementation of local government schemes, assisting senior officers in office management, and facilitating communication between departments and the public. They ensure the smooth functioning of municipal or departmental operations.",
+                    "salary": "INR 30,000 - 60,000",
+                    "job_location": "Districts, towns, and municipal offices",
+                    "growth_opportunities": "Promotion to Section Officer, Senior Section Officer, and higher positions within municipal or state departments."
+                },
+                {
+                    "name": "Junior Analyst / Statistical Assistant",
+                    "description": "Junior Analysts or Statistical Assistants work in the planning, finance, and statistical sections of state departments. Their responsibilities include collecting, compiling, and analyzing data, preparing reports, assisting in policy research, and supporting senior officers in decision-making. These roles require proficiency in data handling, statistical methods, and basic administrative skills.",
+                    "salary": "INR 30,000 - 65,000",
+                    "job_location": "State department offices and district offices",
+                    "growth_opportunities": "Promotion to Senior Analyst, Assistant Director, or department-specific senior positions."
+                },
+                {
+                    "name": "Computer Proficiency / Technical Officer",
+                    "description": "Technical Officers or IT Officers manage information technology and technical tasks for various government departments. Responsibilities include maintaining databases, handling digital documentation, managing software systems, implementing e-governance projects, and supporting other staff in IT-related tasks. These positions require technical skills, computer proficiency, and knowledge of government digital services.",
+                    "salary": "INR 32,000 - 70,000",
+                    "job_location": "State and district offices, IT departments",
+                    "growth_opportunities": "Promotion to Senior IT Officer, Departmental Technical Head, or other specialized technical roles within government services."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "APPSC Group 2 Exam",
+                    "description": "Screening Test, Mains, Computer Proficiency Test."
+                }
+            ],
+            "preparation_tips": [
+                "General Studies books",
+                "AP specific current affairs",
+                "Mock tests"
+            ]
+        },
+        {
+            "name": "APPSC Group 3",
+            "duration": "1-2 years",
+            "purpose": "APPSC Group 3 is a state-level recruitment exam conducted by the Andhra Pradesh Public Service Commission (APPSC) to appoint officers primarily for rural administration and Panchayat Raj governance. It focuses on grassroots-level development and local governance in villages.",
+            "eligibility": "Bachelor's Degree",
+            "age_limit": "18-42 years",
+            "exam_type": "Screening Test, Mains",
+            "career_paths": [
+                {
+                    "name": "Revenue / Panchayat Secretary",
+                    "description": "Revenue or Panchayat Secretaries handle administrative and revenue-related tasks at the village or mandal level. Their responsibilities include maintaining land and property records, assisting in minor revenue collection, implementing government welfare schemes, coordinating with village officers, conducting surveys, and addressing local public grievances. They act as the first point of government contact for villagers and ensure proper execution of state policies at the grassroots level.",
+                    "salary": "INR 25,000 - 50,000",
+                    "job_location": "Villages and Mandals across Andhra Pradesh",
+                    "growth_opportunities": "Promotion to Deputy Tahsildar / Assistant Revenue Officer (Group 2), and eventually higher administrative roles in state government."
+                },
+                {
+                    "name": "Junior Assistant / Clerk",
+                    "description": "Junior Assistants or Clerks perform office and administrative support tasks in district offices, state departments, or local government offices. Duties include maintaining official records, filing documents, processing files, assisting senior officers, handling correspondence, and providing general administrative support to ensure smooth office functioning.",
+                    "salary": "INR 22,000 - 40,000",
+                    "job_location": "District offices, state departments, and local offices",
+                    "growth_opportunities": "Promotion to Senior Assistant, Section Officer (Group 2), and eventually to higher administrative roles."
+                },
+                {
+                    "name": "Stenographer / Typist",
+                    "description": "Stenographers or Typists assist officers in office documentation by performing typing, shorthand, drafting letters, maintaining files, and supporting day-to-day office communications. They are crucial in ensuring accurate and timely preparation of government documents.",
+                    "salary": "INR 22,000 - 45,000",
+                    "job_location": "State and district offices",
+                    "growth_opportunities": "Promotion to Senior Stenographer, clerical supervisory roles, or specialized department positions."
+                },
+                {
+                    "name": "Field / Data Entry Officer",
+                    "description": "Field or Data Entry Officers assist government departments in data collection, digitization of records, conducting surveys, and maintaining accurate databases. They play a vital role in implementing e-governance projects and supporting technical and administrative tasks at district or mandal level.",
+                    "salary": "INR 24,000 - 50,000",
+                    "job_location": "District offices, mandal offices, and field locations",
+                    "growth_opportunities": "Can move to specialized administrative or technical positions, eventually eligible for Group 2 posts."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "APPSC Group 3 Exam",
+                    "description": "Screening Test and Mains."
+                }
+            ],
+            "preparation_tips": [
+                "Rural Development Books",
+                "General Studies"
+            ]
+        },
+        {
+            "name": "APPSC Group 4",
+            "duration": "1-2 years",
+            "purpose": "APPSC Group 4 is the entry-level recruitment exam conducted by APPSC to fill clerical, administrative, and junior staff positions across various state government departments. This exam is ideal for candidates seeking stable jobs with government benefits.",
+            "eligibility": "10th/12th or Bachelor's depending on post",
+            "age_limit": "18-42 years",
+            "exam_type": "Screening Test, CPT",
+            "career_paths": [
+                {
+                    "name": "Junior Assistant / Clerk",
+                    "description": "Junior Assistants or Clerks are responsible for office clerical work in district, mandal, or state offices. They maintain official records, file documents, manage correspondence, assist senior officers, and provide general administrative support. This role helps in ensuring the smooth functioning of government offices and serves as an introduction to administrative work.",
+                    "salary": "INR 20,000 - 35,000",
+                    "job_location": "District offices, mandals, municipal offices across Andhra Pradesh",
+                    "growth_opportunities": "Promotion to Senior Assistant, Section Officer (Group 3), and eventual eligibility for higher Group 2 posts."
+                },
+                {
+                    "name": "Typist / Stenographer",
+                    "description": "Typists or Stenographers assist officers by performing typing, shorthand, drafting letters, maintaining files, and preparing official reports. They play a critical role in office documentation and communication, supporting higher-level officers in administrative tasks.",
+                    "salary": "INR 20,000 - 40,000",
+                    "job_location": "State and district offices",
+                    "growth_opportunities": "Promotion to Senior Stenographer or clerical supervisory roles within government departments."
+                },
+                {
+                    "name": "Field / Data Entry Operator",
+                    "description": "Field or Data Entry Operators support government departments in data entry, digitization of records, conducting surveys, and basic technical tasks. They are essential in implementing e-governance initiatives and maintaining accurate departmental databases.",
+                    "salary": "INR 22,000 - 40,000",
+                    "job_location": "Mandals, district offices, and field locations across Andhra Pradesh",
+                    "growth_opportunities": "Can advance to technical or administrative roles in Group 3 posts over time."
+                },
+                {
+                    "name": "Typist-Cum-Computer Operator",
+                    "description": "Typist-Cum-Computer Operators manage computer operations, prepare official documents, perform data entry, and assist with office automation projects. They bridge the gap between traditional clerical work and modern IT-based administration.",
+                    "salary": "INR 22,000 - 42,000",
+                    "job_location": "District and state offices, mandals",
+                    "growth_opportunities": "Promotion to Senior Computer Operator or IT support roles within departments, with potential future elevation to Group 3 positions."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "APPSC Group 4 Exam",
+                    "description": "Screening Test and Computer Proficiency Test."
+                }
+            ],
+            "preparation_tips": [
+                "Basic General Knowledge",
+                "Typing Practice"
+            ]
+        },
+        {
+            "name": "UPSC Civil Services",
+            "duration": "1-2 years (average serious preparation time)",
+            "purpose": "The UPSC Civil Services Examination is a prestigious all-India exam conducted by the Union Public Service Commission (UPSC) to recruit candidates for top administrative positions in the Indian government, including IAS (Indian Administrative Service), IPS (Indian Police Service), IFS (Indian Foreign Service), IRS (Indian Revenue Service), and other Group A services. Officers manage policy implementation, district administration, law enforcement, and foreign relations, shaping governance and public administration across the country.",
+            "eligibility": "Bachelor's Degree in any discipline from a recognized university.",
+            "age_limit": "21–32 years (relaxations for SC/ST/OBC/PH categories as per rules).",
+            "exam_type": "Three-stage process: Preliminary Exam, Mains Exam, and Personality Test (Interview).",
+            "career_paths": [
+                {
+                    "name": "IAS (Indian Administrative Service)",
+                    "description": "IAS officers are the backbone of the Indian civil administration. They are responsible for district and state administration, policy implementation, law and order, and development programs. They coordinate government departments, supervise public welfare schemes, and ensure smooth functioning of administrative machinery. Over time, they may advance to positions such as District Collector, Secretary of a Ministry, or even Cabinet Secretary, influencing national and state-level governance.",
+                    "salary": "INR 56,100 - 2,50,000 per month (varies with rank and level).",
+                    "job_location": "District Collectorates, State Secretariats, Central Ministries, and sometimes international assignments with UN or World Bank.",
+                    "growth_opportunities": "District Collector → Divisional Commissioner → Principal Secretary → Chief Secretary → Secretary to Government of India → Cabinet Secretary (top post in Indian bureaucracy)."
+                },
+                {
+                    "name": "IPS (Indian Police Service)",
+                    "description": "IPS officers handle law enforcement, public safety, intelligence, and internal security across the country. They lead police forces, investigate crimes, prevent criminal activities, and maintain public order. IPS officers can rise to senior leadership roles like Superintendent of Police, Deputy Inspector General, or Director General of Police, shaping law enforcement policies and operations at the state and national level.",
+                    "salary": "INR 56,100 - 2,25,000 per month.",
+                    "job_location": "Police Headquarters, District Police Offices, Central Police Organizations (CBI, IB, RAW, CRPF, BSF, NIA).",
+                    "growth_opportunities": "Superintendent of Police (SP) → Deputy Inspector General (DIG) → Inspector General (IG) → Director General of Police (DGP) → Director of CBI, IB, NIA."
+                },
+                {
+                    "name": "IFS (Indian Foreign Service)",
+                    "description": "IFS officers represent India internationally, managing diplomacy, foreign relations, trade negotiations, and international cooperation. They work in embassies, consulates, and multilateral organizations, promoting India’s interests abroad. Career growth can lead to roles such as Ambassador, High Commissioner, or Secretary in the Ministry of External Affairs, playing a crucial role in global policy-making and diplomacy.",
+                    "salary": "INR 56,100 - 2,25,000 per month (with special foreign allowances up to 2-3 times the basic salary).",
+                    "job_location": "Indian Embassies, Consulates, High Commissions, and Ministry of External Affairs (MEA) in New Delhi.",
+                    "growth_opportunities": "Under Secretary (MEA) → Deputy Chief of Mission → Ambassador/High Commissioner → Foreign Secretary (top diplomat of India)."
+                },
+                {
+                    "name": "IRS (Indian Revenue Service)",
+                    "description": "IRS officers specialize in taxation and revenue administration. They work in Income Tax or Customs & Excise departments, ensuring tax compliance, investigating tax evasion, formulating tax policies, and implementing government regulations. They may advance to senior positions like Chief Commissioner or Principal Chief Commissioner, shaping India’s taxation framework.",
+                    "salary": "INR 56,100 - 2,10,000 per month.",
+                    "job_location": "Income Tax Department, GST Department, Ministry of Finance.",
+                    "growth_opportunities": "Assistant Commissioner → Deputy Commissioner → Joint Commissioner → Chief Commissioner → Member of CBDT/CBIC."
+                },
+                {
+                    "name": "Indian Audit and Accounts Service (IA&AS)",
+                    "description": "IA&AS officers audit government departments, ministries, and public sector units to ensure financial accountability. They work under the Comptroller and Auditor General of India (CAG), examining budgets, expenditures, and financial reporting. Senior roles include Principal Director of Audit or Member of CAG, influencing financial governance and transparency.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "CAG Offices, Central & State Audit Departments",
+                    "growth_opportunities": "Deputy Accountant General → Accountant General → Deputy CAG → CAG of India"
+                },
+                {
+                    "name": "Indian Railway Traffic Service (IRTS)",
+                    "description": "IRTS officers manage railway operations, logistics, and transport management. They oversee passenger and freight operations, railway planning, scheduling, and commercial functions. They ensure efficiency in train operations and contribute to strategic transport planning. Senior positions include Divisional Railway Manager or General Manager of Railways.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "Railway Zones, Divisional HQ, Railway Board (Delhi)",
+                    "growth_opportunities": "Divisional Operations Manager → Chief Operations Manager → Member Railway Board"
+                },
+                {
+                    "name": "Indian Information Service (IIS)",
+                    "description": "IIS officers handle media, public relations, broadcasting, and government communication. They manage information dissemination, press releases, social media campaigns, and publicity programs for ministries and departments. Career growth includes Director, Joint Director, or Principal Director of Information Services, shaping India’s public communication strategy.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "PIB, Doordarshan, All India Radio, Ministry of Information & Broadcasting",
+                    "growth_opportunities": "Deputy Director → Director → Principal Director General"
+                },
+                {
+                    "name": "Indian Defence Accounts Service (IDAS)",
+                    "description": "IDAS officers manage defense finances, budgeting, accounting, and procurement audits for the armed forces. They ensure proper financial control and compliance in defense expenditure. Senior roles include Controller of Defence Accounts, Chief Controller, or Principal Accounts Officer, contributing to financial management in national defense.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "Defence HQ, Controller General of Defence Accounts (CGDA), Defence establishments",
+                    "growth_opportunities": "Deputy Controller → Additional CGDA → CGDA"
+                },
+                {
+                    "name": "Indian Trade Service (ITS)",
+                    "description": "ITS officers handle foreign trade, export-import policies, and commerce promotion. They work on trade agreements, trade facilitation, and policy implementation to enhance India’s global trade. Career progression includes Director, Joint Director, or Additional Secretary in the Ministry of Commerce, influencing international trade and economic diplomacy.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "Ministry of Commerce, WTO, Indian Trade Missions",
+                    "growth_opportunities": "Deputy Director General of Foreign Trade → Additional DGFT → DGFT"
+                },
+                {
+                    "name": "Indian Postal Service (IPoS)",
+                    "description": "IPoS officers manage and modernize the Indian postal network, overseeing postal operations, finance, logistics, and digital services. They ensure efficient mail delivery, revenue collection, and adoption of technology in postal services. Senior positions include Postmaster General, Director of Postal Services, or Chief Postmaster, playing a key role in India’s communication infrastructure.",
+                    "salary": "INR 56,100 - 2,08,000",
+                    "job_location": "Postal Circles, Ministry of Communications",
+                    "growth_opportunities": "Superintendent of Post Offices → Postmaster General → Director General of Posts"
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "Preliminary Exam",
+                    "description": "Objective type with two papers: General Studies (GS-I) and CSAT (GS-II). Serves as screening test for Mains. Negative marking applies."
+                },
+                {
+                    "name": "Mains Exam",
+                    "description": "Nine descriptive papers including Indian Language, English, Essay, General Studies papers, and Optional Subject. Tests analytical ability, writing skills, and in-depth subject knowledge."
+                },
+                {
+                    "name": "Personality Test (Interview)",
+                    "description": "Face-to-face interview conducted by UPSC Board to test candidate’s personality, leadership, decision-making, and awareness of current issues."
+                }
+            ],
+            "preparation_tips": [
+                {
+                    "tip": "NCERTs (Class 6–12)",
+                    "explanation": "Build strong basics in History, Geography, Polity, Economy, and Science using NCERT textbooks."
+                },
+                {
+                    "tip": "Current Affairs",
+                    "explanation": "Read newspapers like The Hindu/Indian Express daily, follow PIB, Yojana, and government reports for policy updates."
+                },
+                {
+                    "tip": "Answer Writing Practice",
+                    "explanation": "Practice writing structured answers for Mains to improve clarity, presentation, and time management."
+                },
+                {
+                    "tip": "Mock Interviews",
+                    "explanation": "Attend personality development sessions and mock interviews to gain confidence and improve communication for the UPSC interview."
+                }
+            ]
+        },
+        {
+            "name": "SSC CGL (Combined Graduate Level Exam)",
+            "duration": "1-2 years (average preparation time)",
+            "purpose": "The SSC Combined Graduate Level (CGL) Examination is a central government recruitment exam conducted by the Staff Selection Commission (SSC) to hire candidates for Group B and C posts in ministries, departments, and organizations of the Indian government. Common roles include Inspector, Auditor, Assistant Section Officer, Tax Assistant, and Excise Inspector. Officers handle enforcement, auditing, taxation, and administrative tasks across various central government departments.",
+            "eligibility": "Bachelor's Degree in any discipline from a recognized university",
+            "age_limit": "18-32 years (varies by post with relaxations for reserved categories)",
+            "exam_type": "Tier I (Objective), Tier II (Mains - Objective), Tier III (Descriptive), Tier IV (Skill/Computer Proficiency Test)",
+            "career_paths": [
+                {
+                    "name": "Assistant Audit Officer (AAO)",
+                    "description": "An Assistant Audit Officer works in the Indian Audit and Accounts Department under the Comptroller and Auditor General (CAG). The role involves auditing accounts of government departments, organizations, and public sector enterprises to ensure financial transparency and accountability.",
+                    "salary": "INR 47,600 - 1,51,100",
+                    "job_location": "CAG offices across India",
+                    "growth_opportunities": "Deputy Director → Director → Senior Director → Accountant General"
+                },
+                {
+                    "name": "Assistant Accounts Officer (AAO)",
+                    "description": "An Assistant Accounts Officer is posted in the Indian Audit and Accounts Department (IA&AD). They handle government accounts, financial records, budgeting, and preparation of financial statements. They play a crucial role in financial decision-making and control",
+                    "salary": "INR 47,600 - 1,51,100",
+                    "job_location": "Central ministries, CGA offices",
+                    "growth_opportunities": "Accounts Officer → Senior Accounts Officer → Chief Accounts Officer"
+                },
+                {
+                    "name": "Income Tax Inspector (ITI)",
+                    "description": "An Income Tax Inspector works in the Income Tax Department under CBDT. The job involves assessing income tax returns, detecting tax evasion, assisting in raids, recovering tax dues, and ensuring compliance with income tax laws. It includes both desk and field responsibilities.",
+                    "salary": "INR 44,900 - 1,42,400",
+                    "job_location": "Income Tax Department across India",
+                    "growth_opportunities": "Assistant Commissioner → Deputy Commissioner → Commissioner of Income Tax"
+                },
+                {
+                    "name": "Inspector (Examiner, Customs, Excise, Preventive Officer)",
+                    "description": "An Inspector in Customs and Excise departments is responsible for monitoring and enforcing taxation and import/export regulations. An Examiner inspects goods at ports and airports to ensure proper duties are levied and laws are followed. An Excise Inspector supervises manufacturing units and ensures correct excise duty is collected. A Preventive Officer focuses on preventing smuggling and illegal trade, maintaining compliance with customs regulations, and protecting revenue and public interest.",
+                    "salary": "INR 44,900 - 1,42,400",
+                    "job_location": "Ports, Customs Offices, Excise Departments",
+                    "growth_opportunities": "Superintendent → Assistant Commissioner → Deputy Commissioner → Commissioner"
+                },
+                {
+                    "name": "Assistant Section Officer (ASO)",
+                    "description": "An Assistant Section Officer is posted in central ministries such as MEA, Railways, Defence, or other departments. The role involves file management, drafting official communications, maintaining reports, and assisting higher officers in policy execution.",
+                    "salary": "INR 44,900 - 1,42,400",
+                    "job_location": "Central Secretariat, MEA (foreign postings possible), IB, Railways",
+                    "growth_opportunities": "Section Officer → Under Secretary → Deputy Secretary → Joint Secretary"
+                },
+                {
+                    "name": "Sub-Inspector (CBI, NIA)",
+                    "description": "A Sub-Inspector in the CBI investigates cases related to corruption, financial frauds, and criminal activities, assisting in legal proceedings and law enforcement. In the NIA, the Sub-Inspector works on national security cases, counter-terrorism operations, and investigation of organized crimes. Both roles require strong analytical, investigative, and decision-making skills, with a focus on maintaining law and order and upholding justice.",
+                    "salary": "INR 35,400 - 1,12,400",
+                    "job_location": "CBI branches, NIA units across India",
+                    "growth_opportunities": "Inspector → Deputy SP → Additional SP → Superintendent of Police"
+                },
+                {
+                    "name": "Auditor (CAG, CGDA, CGA)",
+                    "description": "An Auditor ensures financial accountability and compliance within government departments. A CAG Auditor works under the Comptroller and Auditor General to audit central and state government accounts. A CGDA Auditor focuses on auditing defence expenditures and accounts. A CGA Auditor works in the Controller General of Accounts, maintaining and verifying accounts for various ministries. Auditors play a vital role in transparency, reporting, and financial control in public administration.",
+                    "salary": "INR 29,200 - 92,300",
+                    "job_location": "CAG offices, Defence Accounts, Civil Accounts",
+                    "growth_opportunities": "Senior Auditor → Section Officer → Audit Officer → Director"
+                },
+                {
+                    "name": "Tax Assistant",
+                    "description": "A Tax Assistant works in the Income Tax Department (CBDT) or Customs & Excise Department (CBIC), assisting officers with data processing, record maintenance, and administrative work. The role involves preparing reports, updating tax records, processing returns, and ensuring that documentation related to taxation and customs duties is accurate and timely.",
+                    "salary": "INR 25,500 - 81,100",
+                    "job_location": "Income Tax Offices, GST Commissionerates",
+                    "growth_opportunities": "Senior Tax Assistant → Inspector → Assistant Commissioner"
+                },
+                {
+                    "name": "Junior Statistical Officer (JSO)",
+                    "description": "A Junior Statistical Officer works in the Ministry of Statistics and Programme Implementation (MoSPI). The role involves data collection, statistical analysis, preparing reports, and assisting in government surveys and policy-making using statistical methods.",
+                    "salary": "INR 35,400 - 1,12,400",
+                    "job_location": "MOSPI, National Sample Survey Office",
+                    "growth_opportunities": "Statistical Investigator → Senior Statistical Officer → Deputy Director"
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "SSC CGL Exam",
+                    "description": "Tier I (Prelims, Objective MCQ) → Tier II (Mains, Objective) → Tier III (Descriptive) → Tier IV (Skill/Typing/Computer Proficiency Test depending on post)"
+                }
+            ],
+            "preparation_tips": [
+                "Build strong basics in Quantitative Aptitude, English, Reasoning, and GK.",
+                "Focus on advanced Math for Tier II.",
+                "Practice previous year question papers regularly.",
+                "Read newspapers and current affairs for GK and Essay writing.",
+                "Work on typing speed for Tier IV (where applicable)."
+            ]
+        },
+        {
+            "name": "IBPS PO (Probationary Officer)",
+            "duration": "1 year (average preparation time)",
+            "purpose": "The IBPS Probationary Officer (PO) Exam is a national-level recruitment conducted by the Institute of Banking Personnel Selection (IBPS) to select candidates for Probationary Officer positions in public sector banks. POs manage banking operations, credit, customer service, administrative functions, and policy implementation in banks. This is an entry-level managerial role with opportunities for growth into branch management and regional leadership.",
+            "eligibility": "Bachelor's Degree in any discipline from a recognized university",
+            "age_limit": "20-30 years (with relaxations for reserved categories)",
+            "exam_type": "Prelims (Objective), Mains (Objective + Descriptive), Interview",
+            "career_paths": [
+                {
+                    "name": "Probationary Officer (PO)",
+                    "description": "A bank officer responsible for managing day-to-day banking operations, customer service, credit management, and administrative tasks. POs rotate through various departments like loans, accounts, foreign exchange, and branch operations during their probation period to gain broad exposure. They handle tasks such as sanctioning loans, managing deposits, ensuring compliance with banking regulations, implementing government schemes, and maintaining branch performance.",
+                    "salary": "INR 41,000 - 68,000 (including allowances)",
+                    "job_location": "Bank branches across India",
+                    "growth_opportunities": "Assistant Manager → Branch Manager → Regional Manager → General Manager → Executive Director → Chairman & MD"
+                },
+                {
+                    "name": "Credit Officer",
+                    "description": "Handles credit appraisal, loan sanctioning, risk assessment, and monitoring of borrowers. Ensures compliance with bank policies and regulatory requirements while managing credit portfolios. They evaluate borrowers’ financial status, approve or recommend loans, and monitor repayment schedules.",
+                    "salary": "INR 45,000 - 75,000",
+                    "job_location": "Bank branches, regional/zonal offices",
+                    "growth_opportunities": "Senior Credit Officer → Credit Manager → Chief Credit Officer"
+                },
+                {
+                    "name": "Operations Manager",
+                    "description": "Oversees branch operations, ensures smooth functioning of day-to-day activities, manages staff, monitors compliance with banking regulations, and implements internal controls and risk management policies. They ensure efficiency, accuracy, and customer satisfaction in banking operations.",
+                    "salary": "INR 45,000 - 72,000",
+                    "job_location": "Branches, zonal and regional offices",
+                    "growth_opportunities": "Senior Operations Manager → Deputy General Manager → General Manager"
+                },
+                {
+                    "name": "Relationship Manager",
+                    "description": "Maintains and manages relationships with key clients, including corporate and high-net-worth individuals. Advises clients on financial products, investments, loans, and banking solutions to meet their business or personal financial needs. They focus on client retention, portfolio growth, and business development.",
+                    "salary": "INR 42,000 - 70,000",
+                    "job_location": "Retail and corporate branches",
+                    "growth_opportunities": "Senior RM → Assistant VP → VP (Corporate Banking)"
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "IBPS PO Exam",
+                    "description": "Prelims (English, Quant, Reasoning) → Mains (Reasoning, General Awareness, Data Analysis, English, Descriptive Essay/Letter) → Interview"
+                }
+            ],
+            "preparation_tips": [
+                "Strengthen speed & accuracy in Quant, English, and Reasoning.",
+                "Focus on Data Interpretation and Banking Awareness for Mains.",
+                "Read financial newspapers like Economic Times for current affairs.",
+                "Practice descriptive writing for essays and letters.",
+                "Take regular mock tests and sectional tests."
+            ]
+        },
+        {
+            "name": "RBI Grade B",
+            "duration": "1 year (average preparation time)",
+            "purpose": "The RBI Grade B Examination is conducted by the Reserve Bank of India to recruit officers for finance, economics, and regulatory roles within the central bank. RBI Grade B officers work on monetary policy, financial regulation, currency management, banking supervision, and economic research, contributing to India’s financial stability and regulatory framework.",
+            "eligibility": "Bachelor's Degree with 60% marks (50% for SC/ST/PwBD). Candidates with master's degree in Economics/Finance have an added advantage.",
+            "age_limit": "21-30 years (relaxation for reserved categories)",
+            "exam_type": "Phase I, Phase II, Interview",
+            "career_paths": [
+                {
+                    "name": "RBI Grade B Officer (General/DEPR/DSIM)",
+                    "description": "RBI Grade B Officer – A central banking officer recruited by the Reserve Bank of India to manage regulatory, financial, economic, and data-driven functions across various departments. Depending on the stream, officers may handle banking supervision, monetary policy implementation, currency management, and ensure compliance of banks and financial institutions (General Stream); conduct economic research, policy analysis, financial stability reports, and forecasting to guide decision-making (DEPR); or manage large datasets, perform statistical modeling, data analytics, and provide quantitative insights for policy formulation (DSIM). Overall, RBI Grade B officers play a key role in maintaining the stability, efficiency, and integrity of India’s financial system.",
+                    "salary": "Approx. INR 77,000 per month (basic pay INR 35,150 plus allowances). Annual package around INR 12-15 Lakhs.",
+                    "job_location": "RBI offices across India (Mumbai, Delhi, Chennai, Hyderabad, etc.)",
+                    "growth_opportunities": "Assistant General Manager → Deputy General Manager → General Manager → Chief General Manager → Executive Director → Deputy Governor of RBI."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "RBI Grade B Exam",
+                    "description": "Phase I (Objective – GA, Reasoning, English, Quant), Phase II (Descriptive – Economics, Finance, English), followed by Interview."
+                }
+            ],
+            "preparation_tips": [
+                "Focus on Economics, Finance, Quantitative Aptitude, Reasoning, and English.",
+                "Read RBI reports (Monetary Policy Report, Annual Report).",
+                "Follow Economic Survey and Union Budget.",
+                "Practice descriptive writing for Phase II.",
+                "Solve previous year question papers and take mock tests."
+            ]
+        },
+        {
+            "name": "ISRO Scientist/Engineer",
+            "duration": "1 year",
+            "purpose": "The ISRO Scientist/Engineer Recruitment is conducted by the Indian Space Research Organisation (ISRO) to hire engineers and scientists for space research, satellite development, spacecraft design, and related scientific projects. Officers work on advanced space technologies, research projects, and mission planning, contributing to India’s space exploration and satellite programs.",
+            "eligibility": "B.E/B.Tech in Mechanical, Electronics, Computer Science, Electrical, or relevant engineering discipline with at least 65% marks.",
+            "age_limit": "Maximum 35 years (relaxation for reserved categories)",
+            "exam_type": "Written Test, Interview",
+            "career_paths": [
+                {
+                    "name": "Scientist/Engineer (SC Level)",
+                    "description": "A Scientist/Engineer (SC Level) at ISRO is an entry-level technical officer responsible for research, design, development, and implementation of space and satellite systems. They work on cutting-edge technology related to spacecraft, satellites, launch vehicles, and ground support infrastructure.",
+                    "salary": "INR 56,100 (basic) + allowances → Approx. INR 9-10 Lakhs per annum.",
+                    "job_location": "ISRO centers (Bengaluru, Sriharikota, Ahmedabad, Thiruvananthapuram, Hyderabad, etc.)",
+                    "growth_opportunities": "Scientist/Engineer SC → SD → SE → SF → SG → Project Director/Center Director."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "ISRO Recruitment Exam",
+                    "description": "Written test (based on core engineering discipline), followed by a technical interview."
+                }
+            ],
+            "preparation_tips": [
+                "Strong focus on engineering core subjects (Mechanical, Electronics, Computer Science).",
+                "Solve GATE-level technical questions.",
+                "Revise ISRO previous year papers.",
+                "Follow current developments in Indian space research.",
+                "Practice technical interviews with subject clarity."
+            ]
+        },
+        {
+            "name": "CDS (Combined Defence Services)",
+            "duration": "1-2 years",
+            "purpose": "The Combined Defence Services (CDS) Examination is conducted by the UPSC to recruit candidates as officers in the Indian Army, Navy, and Air Force. CDS officers undergo training and take leadership roles in defense operations, commanding troops, ships, and aircraft, and ensuring national security. The exam tests academic knowledge, aptitude, and leadership potential for a career in the Indian Armed Forces.",
+            "eligibility": "Bachelor's Degree",
+            "age_limit": "19-24 years",
+            "exam_type": "Written Exam, SSB Interview, Medical",
+            "career_paths": [
+                {
+                    "name": "Army Officer",
+                    "description": "An Army Officer commissioned through CDS leads troops in operational areas, manages defense strategies, and ensures national security. They are responsible for planning and executing military operations, training soldiers, and maintaining discipline within their units. Army officers can serve in combat, logistics, intelligence, or administrative roles depending on their specialization. Career progression includes ranks such as Lieutenant, Captain, Major, Colonel, and General.",
+                    "salary": "INR 56,100 - 2,00,000",
+                    "job_location": "Across Army bases and field locations in India",
+                    "growth_opportunities": "Lieutenant → Captain → Major → Lieutenant Colonel → Colonel → Brigadier → Major General → Lieutenant General → Chief of Army Staff."
+                },
+                {
+                    "name": "Navy Officer",
+                    "description": "A Navy Officer commands ships, submarines, and naval fleets, ensuring maritime security and operational readiness. They handle navigation, warfare operations, logistics, and management of naval resources. Navy officers also participate in strategic planning and international missions. Career growth progresses through ranks like Sub-Lieutenant, Lieutenant, Lieutenant Commander, Commander, Captain, and Admiral.",
+                    "salary": "INR 56,100 - 2,00,000",
+                    "job_location": "Naval bases and operational seas",
+                    "growth_opportunities": "Sub-Lieutenant → Lieutenant → Lieutenant Commander → Commander → Captain → Commodore → Rear Admiral → Vice Admiral → Admiral (Chief of Naval Staff)."
+                },
+                {
+                    "name": "Air Force Officer",
+                    "description": "An Air Force Officer leads air squadrons, manages air defense operations, and ensures the operational efficiency of aircraft and personnel. They are responsible for planning and executing aerial missions, managing airbases, and maintaining flight readiness. Officers may specialize in flying, technical, or ground duties. Career advancement includes ranks like Flying Officer, Flight Lieutenant, Squadron Leader, Wing Commander, Group Captain, and Air Marshal.",
+                    "salary": "INR 56,100 - 2,00,000",
+                    "job_location": "Air bases across India",
+                    "growth_opportunities": "Flying Officer → Flight Lieutenant → Squadron Leader → Wing Commander → Group Captain → Air Commodore → Air Vice Marshal → Air Marshal → Air Chief Marshal (Chief of Air Staff)."
+                }
+            ],
+            "entrance_exams": [
+                {
+                    "name": "CDS Exam",
+                    "description": "Written Exam (English, GK, Mathematics for IMA/NA/AFA; English + GK for OTA), followed by SSB Interview and Medical test."
+                }
+            ],
+            "preparation_tips": [
+                "Revise English grammar and comprehension.",
+                "Focus on Mathematics (up to 10th level) and General Knowledge.",
+                "Work on physical fitness (running, pushups, stamina).",
+                "Practice SSB interview mock sessions."
+            ]
+        }
+    ]
+}
