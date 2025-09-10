@@ -1,5 +1,4 @@
 import React from "react";
-import chatgptimg5 from "../assets/chatgptimg5.png";
 
 export function About() {
     return (
@@ -70,7 +69,6 @@ export function About() {
                 </li>
             </ol>
 
-            <img src={chatgptimg5} alt="career guidance" className="about-image" />
             <style>
                 {
                     `.about-container {
@@ -93,12 +91,7 @@ export function About() {
   line-height: 1.6;
 }
 
-.about-image {
-  height: 70vh;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 20px;
-}
+
 
 @media (max-width: 478px) {
   .about-container {
@@ -119,11 +112,6 @@ export function About() {
     font-size: 0.8rem;
     line-height: 1.6;
     margin-bottom:10px;
-  }
-
-  .about-image {
-    height: 40vh;
-   
   }
 }
 `
