@@ -1,10 +1,12 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
-export const authSlice = createApi({
 
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+
+export const authSlice = createApi({
     reducerPath: 'authenticationApi',
     baseQuery: fetchBaseQuery({
-        baseUrl: 'http://localhost:8080',
+        baseUrl: BACKEND_URL,
         prepareHeaders: (headers) => {
             const token = localStorage.getItem("token");
             if (token) {
