@@ -8,11 +8,14 @@ export const authSlice = createApi({
     reducerPath: 'authenticationApi',
     baseQuery: fetchBaseQuery({
         baseUrl: BACKEND_URL,
-        prepareHeaders: (headers) => {
-            const token = localStorage.getItem("token");
-            if (token) {
-                headers.set("Authorization", `Bearer ${token}`);
+        prepareHeaders: (headers, { endpoint }) => {
+            if (endpoint !== "login" && endpoint !== "register") {
+                const token = localStorage.getItem("token");
+                if (token) {
+                    headers.set("Authorization", `Bearer ${token}`);
+                }
             }
+            headers.set("Content-Type", "application/json");
             return headers;
         },
     }),
