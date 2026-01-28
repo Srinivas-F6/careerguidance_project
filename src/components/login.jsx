@@ -94,6 +94,7 @@ export function Login({setIsAuthenticated}) {
             </Stack>
 
             {/* Form */}
+            <form>
             <Stack spacing={3}>
               <TextField
                 required
@@ -127,6 +128,7 @@ export function Login({setIsAuthenticated}) {
                 {isLoading ? 'Logging in...' : 'Login'}
               </Button>
             </Stack>
+            </form>
             {/* Footer Text */}
             <Typography variant="body2" textAlign="center" color='black'>
               Don't have an account?{" "}
@@ -139,6 +141,7 @@ export function Login({setIsAuthenticated}) {
               >
                 Register
               </Link>
+
             </Typography>
 
           </Stack>
