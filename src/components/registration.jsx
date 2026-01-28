@@ -72,7 +72,9 @@ export function Registration() {
           color: 'black'
         }}
       >
+        <form onSubmit={(e) => { e.preventDefault(); handleRegister(); }}>
         <Stack spacing={3}>
+
           <Stack spacing={1}>
             {/* Title */}
             <Typography variant="h4" fontWeight="bold" textAlign="center" color='blue'>
@@ -83,7 +85,7 @@ export function Registration() {
               Sign up to get started
             </Typography>
           </Stack>
-
+         
           <TextField
             required
             label="Full Name"
@@ -111,6 +113,7 @@ export function Registration() {
             label="Password"
             type="password"
             onChange={(e) => setPassword(e.target.value)}
+            autoComplete="new-password"
             variant="standard"
             fullWidth
           />
@@ -121,6 +124,7 @@ export function Registration() {
             label="Confirm Password"
             type="password"
             variant="standard"
+            autoComplete="new-password"
             onChange={(e) => setConfirmPassword(e.target.value)}
             fullWidth
             sx={{
@@ -135,7 +139,7 @@ export function Registration() {
           <Button
             variant="contained"
             size="large"
-            onClick={handleRegister}
+            type='submit'
             sx={{
               mt: 2,
               borderRadius: 2,
@@ -144,6 +148,8 @@ export function Registration() {
           >
             {isLoading ? 'Registering...' : 'Register'}
           </Button>
+
+          
 
           {/* Footer Text */}
           <Typography variant="body2" textAlign="center" color='black'>
@@ -159,6 +165,7 @@ export function Registration() {
             </Link>
           </Typography>
         </Stack>
+        </form>
       </Paper>
     </Box>
   );

@@ -94,7 +94,7 @@ export function Login({setIsAuthenticated}) {
             </Stack>
 
             {/* Form */}
-            <form>
+            <form onSubmit={(e) => { e.preventDefault(); handleLogin(); }}>
             <Stack spacing={3}>
               <TextField
                 required
@@ -118,7 +118,7 @@ export function Login({setIsAuthenticated}) {
                 variant="contained"
                 size="large"
                 fullWidth
-                onClick={handleLogin}
+                type='submit'
                 sx={{
                   mt: 2,
                   borderRadius: 2,
